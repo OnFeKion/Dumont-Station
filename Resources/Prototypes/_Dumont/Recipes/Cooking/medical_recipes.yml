@@ -29,8 +29,8 @@
   group: Medicinal
   reagents:
     Bicaridine: 6
-    SalicylicAcid: 1.5
-    TranexamicAcid: 2.5
+    SalicylicAcid: 2
+    TranexamicAcid: 3
   recipeType: MedicalAssembler
 
 - type: microwaveMealRecipe
