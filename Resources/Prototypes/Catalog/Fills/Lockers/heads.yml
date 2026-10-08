@@ -358,6 +358,7 @@
     # Gabystation
     - id: HandheldPowerMonitorGs
     - id: RCDProtoCE
+    - id: ClothingEyesGlassesEngineeringScanner # Dumont
     - id: InducerEngineeringWhiteBattery # Orion
 
 # Hardsuit table, used for suit storage as well
