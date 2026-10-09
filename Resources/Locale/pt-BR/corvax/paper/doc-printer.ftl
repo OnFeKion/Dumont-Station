@@ -1,1204 +1,1757 @@
 doc-text-printer-ReportStation =
-   ⠀[color=#1b487e]███░███░░░░██░░░░[/color]
-   ⠀[color=#1b487e]░██░████░░░██░░░░[/color]      [head=3]Documento em Branco[/head]
-   ⠀[color=#1b487e]░░█░██░██░░██░█░░[/color]               [head=3]NanoTrasen[/head]
-   ⠀[color=#1b487e]░░░░██░░██░██░██░[/color] [bold]Estação XX-000 COM-CIC[/bold]
-   ⠀[color=#1b487e]░░░░██░░░████░███[/color]
-    =============================================
-                                RELATÓRIO DE SITUAÇÃO
-    =============================================
-    Tempo desde o início do turno:
-    Redator do documento:
-    Posição do redator:
+[color=#1b487e]════════════════════════════NANOTRASEN══
 
-    Objetivo:
-    Status da realização do objetivo:
-    Código de nível de ameaça:
-    Razão para estabelecer o código:
-    Ameaças ativas:
-    Perdas entre a tripulação:
-    Situação atual:
+ █▄ █ ▀█▀    [head=3][color=#d4af37]CENTRO DE INFORMAÇÃO E COMANDO[/color][/head]
+ █ ▀█  █     [italic]Estação [form][/italic]
+             Emitido: [form].[form].3026
+[/color]
+[color=#1b487e]════════════════════════════════════════[/color]
 
-    =============================================
-                                ⠀[italic]Espaço para carimbos[/italic]
+[head=2][color=#d4af37]RELATÓRIO DE SITUAÇÃO[/color][/head]
+
+[bold]Tempo desde o início do turno:[/bold] [form]
+[bold]Redator do documento:[/bold] [signature]
+
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+                                            [head=3][color=#d4af37]SITUAÇÃO[/color][/head]
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+[bold]Objetivo:[/bold] [form]
+[bold]Status da realização do objetivo:[/bold] [form]
+[bold]Código de nível de ameaça:[/bold] [form]
+[bold]Razão para estabelecer o código:[/bold] [form]
+[bold]Ameaças ativas:[/bold] [form]
+[bold]Perdas entre a tripulação:[/bold] [form]
+[bold]Situação atual:[/bold] [form]
+
+[color=#8a1c1c][bold]SEM ASSINATURA E CARIMBO, SEM VALIDADE[/bold][/color]
+
+         [color=#d4af37][bold]PELA JUSTIÇA, PELA ORDEM, PELA NANOTRASEN.[/bold][/color]
+
+                            [color=#1b487e][head=3][bold]GLÓRIA A NANOTRASEN![/bold][/head][/color]
+
+                                      [italic]Espaço para Carimbos[/italic]
 doc-text-printer-ReportOnEliminationOfViolations =
-   ⠀[color=#1b487e]███░███░░░░██░░░░[/color]
-   ⠀[color=#1b487e]░██░████░░░██░░░░[/color]      [head=3]Documento em Branco[/head]
-   ⠀[color=#1b487e]░░█░██░██░░██░█░░[/color]               [head=3]NanoTrasen[/head]
-   ⠀[color=#1b487e]░░░░██░░██░██░██░[/color] [bold]Estação XX-000 COM[/bold]
-   ⠀[color=#1b487e]░░░░██░░░████░███[/color]
-    =============================================
-                            RELATÓRIO DE ELIMINAÇÃO DE VIOLAÇÕES
-    =============================================
-    Tempo desde o início do turno:
-    Redator do documento:
-    Posição do redator:
+[color=#1b487e]════════════════════════════NANOTRASEN══
 
-    Eu, (NOME), no cargo de (nome completo do cargo), relato a eliminação das violações no trabalho identificadas por (NOME), no cargo de (nome completo do cargo).
-    Violações apresentadas:
+ █▄ █ ▀█▀    [head=3][color=#d4af37]COMANDO DA ESTAÇÃO[/color][/head]
+ █ ▀█  █     [italic]Estação [form][/italic]
+             Emitido: [form].[form].3026
+[/color]
+[color=#1b487e]════════════════════════════════════════[/color]
 
-    Razão das violações:
+[head=2][color=#d4af37]RELATÓRIO DE ELIMINAÇÃO DE VIOLAÇÕES[/color][/head]
 
-    Ações realizadas para eliminar as violações:
+[bold]Tempo desde o início do turno:[/bold] [form]
+[bold]Redator do documento:[/bold] [signature]
 
-    =============================================
-                                ⠀[italic]Espaço para carimbos[/italic]
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+                                            [head=3][color=#d4af37]CORREÇÃO[/color][/head]
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+Eu, [form], no cargo de [form], relato a eliminação das violações no trabalho identificadas por [form], no cargo de [form].
+
+[bold]Violações apresentadas:[/bold] [form]
+
+[bold]Razão das violações:[/bold] [form]
+
+[bold]Ações realizadas para eliminar as violações:[/bold] [form]
+
+[color=#8a1c1c][bold]SEM ASSINATURA E CARIMBO, SEM VALIDADE[/bold][/color]
+
+         [color=#d4af37][bold]PELA JUSTIÇA, PELA ORDEM, PELA NANOTRASEN.[/bold][/color]
+
+                            [color=#1b487e][head=3][bold]GLÓRIA A NANOTRASEN![/bold][/head][/color]
+
+                                      [italic]Espaço para Carimbos[/italic]
 doc-text-printer-ReporDepartment =
-   ⠀[color=#1b487e]███░███░░░░██░░░░[/color]
-   ⠀[color=#1b487e]░██░████░░░██░░░░[/color]      [head=3]Documento em Branco[/head]
-   ⠀[color=#1b487e]░░█░██░██░░██░█░░[/color]               [head=3]NanoTrasen[/head]
-   ⠀[color=#1b487e]░░░░██░░██░██░██░[/color] [bold]Estação XX-000 COM[/bold]
-   ⠀[color=#1b487e]░░░░██░░░████░███[/color]
-    =============================================
-                                RELATÓRIO DE DESEMPENHO DO DEPARTAMENTO
-    =============================================
-    Tempo desde o início do turno:
-    Redator do documento:
-    Posição do redator:
 
-    Número de funcionários no departamento:
-    Número de estagiários:
-    Funcionários inativos do departamento:
-    Nome completo, cargo, razão
-    Grau de prontidão para o objetivo:
-    Condição geral do departamento:
-
-    =============================================
-                                ⠀[italic]Espaço para carimbos[/italic]
 doc-text-printer-ReportEmployeePerformance =
-   ⠀[color=#1b487e]███░███░░░░██░░░░[/color]
-   ⠀[color=#1b487e]░██░████░░░██░░░░[/color]      [head=3]Documento em Branco[/head]
-   ⠀[color=#1b487e]░░█░██░██░░██░█░░[/color]               [head=3]NanoTrasen[/head]
-   ⠀[color=#1b487e]░░░░██░░██░██░██░[/color] [bold]Estação XX-000 ADM-COM[/bold]
-   ⠀[color=#1b487e]░░░░██░░░████░███[/color]
-    =============================================
-                        RELATÓRIO DE DESEMPENHO DO FUNCIONÁRIO
-    =============================================
-    Tempo desde o início do turno:
-    Redator do documento:
-    Posição do redator:
+[color=#1b487e]════════════════════════════NANOTRASEN══
 
-    Eu, (NOME), no cargo de (nome completo do cargo), durante o cumprimento das minhas responsabilidades, executei o volume de trabalho atribuído. Solicito que o Chefe do Departamento (nome do departamento) aceite o resultado do meu trabalho.
-    Trabalhos realizados:
+ █▄ █ ▀█▀    [head=3][color=#d4af37]RECURSOS HUMANOS[/color][/head]
+ █ ▀█  █     [italic]Estação [form][/italic]
+             Emitido: [form].[form].3026
+[/color]
+[color=#1b487e]════════════════════════════════════════[/color]
 
-    =============================================
-                                ⠀[italic]Espaço para carimbos[/italic]
+[head=2][color=#d4af37]RELATÓRIO DE DESEMPENHO DO FUNCIONÁRIO[/color][/head]
+
+[bold]Tempo desde o início do turno:[/bold] [form]
+[bold]Redator do documento:[/bold] [signature]
+
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+                                         [head=3][color=#d4af37]DESEMPENHO[/color][/head]
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+Eu, [form], no cargo de [form], durante o cumprimento das minhas responsabilidades, executei o volume de trabalho atribuído. Solicito que o Chefe do Departamento [form] aceite o resultado do meu trabalho.
+
+[bold]Trabalhos realizados:[/bold]
+[form]
+
+[color=#8a1c1c][bold]SEM ASSINATURA E CARIMBO, SEM VALIDADE[/bold][/color]
+
+         [color=#d4af37][bold]PELA JUSTIÇA, PELA ORDEM, PELA NANOTRASEN.[/bold][/color]
+
+                            [color=#1b487e][head=3][bold]GLÓRIA A NANOTRASEN![/bold][/head][/color]
+
+                                      [italic]Espaço para Carimbos[/italic]
 doc-text-printer-ReportOnTheChaptersMeeting =
-   ⠀[color=#1b487e]███░███░░░░██░░░
-    ⠀[color=#1b487e]░██░████░░░██░░░░[/color]      [head=3]Documento em Branco[/head]
-   ⠀[color=#1b487e]░░█░██░██░░██░█░░[/color]               [head=3]NanoTrasen[/head]
-   ⠀[color=#1b487e]░░░░██░░██░██░██░[/color] [bold]Estação XX-000 COM[/bold]
-   ⠀[color=#1b487e]░░░░██░░░████░███[/color]
-    =============================================
-                                RELATÓRIO DA REUNIÃO DOS CHEFES
-    =============================================
-    Tempo desde o início do turno:
-    Redator do documento:
-    Posição do redator:
+[color=#1b487e]════════════════════════════NANOTRASEN══
 
-    Razão para convocar a Reunião dos Chefes:
-    Formulação da questão apresentada aos Chefes:
-    Número de votos "A favor":
-    Votantes "A favor":
+ █▄ █ ▀█▀    [head=3][color=#d4af37]COMANDO DA ESTAÇÃO[/color][/head]
+ █ ▀█  █     [italic]Estação [form][/italic]
+             Emitido: [form].[form].3026
+[/color]
+[color=#1b487e]════════════════════════════════════════[/color]
 
-    Número de votos "Contra":
-    Votantes "Contra":
+[head=2][color=#d4af37]RELATÓRIO DA REUNIÃO DOS CHEFES[/color][/head]
 
-    Número de abstenções:
-    Abstencionistas:
+[bold]Tempo desde o início do turno:[/bold] [form]
+[bold]Redator do documento:[/bold] [signature]
 
-    Decisão da Reunião dos Chefes:
-    =============================================
-                                ⠀[italic]Espaço para carimbos[/italic]
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+                                               [head=3][color=#d4af37]VOTAÇÃO[/color][/head]
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+[bold]Razão para convocar a Reunião dos Chefes:[/bold] [form]
+[bold]Formulação da questão apresentada aos Chefes:[/bold] [form]
+
+[bold]Número de votos "A favor":[/bold] [form]
+[bold]Votantes "A favor":[/bold] [form]
+
+[bold]Número de votos "Contra":[/bold] [form]
+[bold]Votantes "Contra":[/bold] [form]
+
+[bold]Número de abstenções:[/bold] [form]
+[bold]Abstencionistas:[/bold] [form]
+
+[bold]Decisão da Reunião dos Chefes:[/bold] [form]
+
+[color=#8a1c1c][bold]SEM ASSINATURA E CARIMBO, SEM VALIDADE[/bold][/color]
+
+         [color=#d4af37][bold]PELA JUSTIÇA, PELA ORDEM, PELA NANOTRASEN.[/bold][/color]
+
+                            [color=#1b487e][head=3][bold]GLÓRIA A NANOTRASEN![/bold][/head][/color]
+
+                                      [italic]Espaço para Carimbos[/italic]
 doc-text-printer-InternalAffairsAgentsReport =
-   ⠀[color=#1b487e]███░███░░░░██░░░░[/color]
-   ⠀[color=#1b487e]░██░████░░░██░░░░[/color]      [head=3]Documento em Branco[/head]
-   ⠀[color=#1b487e]░░█░██░██░░██░█░░[/color]               [head=3]NanoTrasen[/head]
-   ⠀[color=#1b487e]░░░░██░░██░██░██░[/color] [bold]Estação XX-000 JUR-COM[/bold]
-   ⠀[color=#1b487e]░░░░██░░░████░███[/color]
-    =============================================
-                RELATÓRIO DE INVESTIGAÇÃO INTERNA
-    =============================================
-    Tempo desde o início do turno:
-    Redator do documento:
-    Posição do redator:
+[color=#1b487e]════════════════════════════NANOTRASEN══
 
-    Eu, (NOME), no cargo de Agente de Assuntos Internos, durante a verificação interna solicitada por (NOME), no cargo de (nome completo do cargo), devido a (motivo da verificação), identifiquei as seguintes violações:
+ █▄ █ ▀█▀    [head=3][color=#d4af37]ASSUNTOS INTERNOS[/color][/head]
+ █ ▀█  █     [italic]Estação [form][/italic]
+             Emitido: [form].[form].3026
+[/color]
+[color=#1b487e]════════════════════════════════════════[/color]
 
-    Também quero relatar o seguinte:
+[head=2][color=#d4af37]RELATÓRIO DE INVESTIGAÇÃO INTERNA[/color][/head]
 
-    =============================================
-                                ⠀[italic]Espaço para carimbos[/italic]
+[bold]Tempo desde o início do turno:[/bold] [form]
+[bold]Redator do documento:[/bold] [signature]
+
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+                                      [head=3][color=#d4af37]INVESTIGAÇÃO[/color][/head]
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+Eu, [form], no cargo de Agente de Assuntos Internos, durante a verificação interna solicitada por [form], no cargo de [form], devido a [form] (motivo da verificação), identifiquei as seguintes violações:
+[form]
+
+[bold]Também quero relatar o seguinte:[/bold]
+[form]
+
+[color=#8a1c1c][bold]SEM ASSINATURA E CARIMBO, SEM VALIDADE[/bold][/color]
+
+         [color=#d4af37][bold]PELA JUSTIÇA, PELA ORDEM, PELA NANOTRASEN.[/bold][/color]
+
+                            [color=#1b487e][head=3][bold]GLÓRIA A NANOTRASEN![/bold][/head][/color]
+
+                                      [italic]Espaço para Carimbos[/italic]
 doc-text-printer-ConditionReport =
-   ⠀[color=#1b487e]███░███░░░░██░░░░[/color]
-   ⠀[color=#1b487e]░██░████░░░██░░░░[/color]      [head=3]Documento em Branco[/head]
-   ⠀[color=#1b487e]░░█░██░██░░██░█░░[/color]               [head=3]NanoTrasen[/head]
-   ⠀[color=#1b487e]░░░░██░░██░██░██░[/color] [bold]Estação XX-000 ENG[/bold]
-   ⠀[color=#1b487e]░░░░██░░░████░███[/color]
-    =============================================
-                        RELATÓRIO DE CONDIÇÃO TÉCNICA
-    =============================================
-    Tempo desde o início do turno:
-    Redator do documento:
-    Posição do redator:
+[color=#1b487e]════════════════════════════NANOTRASEN══
 
-    Foi realizada uma verificação (nome do sistema ou objeto), os resultados foram analisados, e uma análise das razões para o mau funcionamento do objeto foi conduzida.
-    Causa da quebra do objeto:
+ █▄ █ ▀█▀    [head=3][color=#d4af37]DIVISÃO DE ENGENHARIA[/color][/head]
+ █ ▀█  █     [italic]Estação [form][/italic]
+             Emitido: [form].[form].3026
+[/color]
+[color=#1b487e]════════════════════════════════════════[/color]
 
-    Danos identificados no objeto:
+[head=2][color=#d4af37]RELATÓRIO DE CONDIÇÃO TÉCNICA[/color][/head]
 
-    Reparo realizado no objeto:
+[bold]Tempo desde o início do turno:[/bold] [form]
+[bold]Redator do documento:[/bold] [signature]
 
-    =============================================
-                                ⠀[italic]Espaço para carimbos[/italic]
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+                                        [head=3][color=#d4af37]VERIFICAÇÃO[/color][/head]
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+Foi realizada uma verificação [form] (nome do sistema ou objeto), os resultados foram analisados, e uma análise das razões para o mau funcionamento do objeto foi conduzida.
+
+[bold]Causa da quebra do objeto:[/bold] [form]
+
+[bold]Danos identificados no objeto:[/bold] [form]
+
+[bold]Reparo realizado no objeto:[/bold] [form]
+
+[color=#8a1c1c][bold]SEM ASSINATURA E CARIMBO, SEM VALIDADE[/bold][/color]
+
+         [color=#d4af37][bold]PELA JUSTIÇA, PELA ORDEM, PELA NANOTRASEN.[/bold][/color]
+
+                            [color=#1b487e][head=3][bold]GLÓRIA A NANOTRASEN![/bold][/head][/color]
+
+                                      [italic]Espaço para Carimbos[/italic]
 doc-text-printer-ReportStudyObject =
-    ⠀[color=#1b487e]███░███░░░░██░░░░[/color]
-    ⠀[color=#1b487e]░██░████░░░██░░░░[/color]      [head=3]Documento em Branco[/head]
-    ⠀[color=#1b487e]░░█░██░██░░██░█░░[/color]               [head=3]NanoTrasen[/head]
-    ⠀[color=#1b487e]░░░░██░░██░██░██░[/color] [bold]Estação XX-000 COD[/bold]
-    ⠀[color=#1b487e]░░░░██░░░████░███[/color]
-    =============================================
-                        RELATÓRIO DE ESTUDO DE OBJETO
-    =============================================
-    Tempo desde o início do turno:
-    Redator do documento:
-    Posição do redator:
+[color=#1b487e]════════════════════════════NANOTRASEN══
 
-    Para realizar a análise, foi apresentado (quem ou qual departamento entregou o objeto) um dispositivo com propriedades não estudadas. Durante a análise, o objeto foi estudado, suas propriedades foram identificadas, assim como sua afiliação taxonômica.
-    Descrição externa do objeto:
+ █▄ █ ▀█▀    [head=3][color=#d4af37]DIVISÃO DE PESQUISA[/color][/head]
+ █ ▀█  █     [italic]Estação [form][/italic]
+             Emitido: [form].[form].3026
+[/color]
+[color=#1b487e]════════════════════════════════════════[/color]
 
-    Propriedades identificadas do objeto:
+[head=2][color=#d4af37]RELATÓRIO DE ESTUDO DE OBJETO[/color][/head]
 
-    =============================================
-                                ⠀[italic]Espaço para carimbos[/italic]
+[bold]Tempo desde o início do turno:[/bold] [form]
+[bold]Redator do documento:[/bold] [signature]
+
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+                                              [head=3][color=#d4af37]ANÁLISE[/color][/head]
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+Para realizar a análise, foi apresentado por [form] (quem ou qual departamento entregou o objeto) um dispositivo com propriedades não estudadas. Durante a análise, o objeto foi estudado, suas propriedades foram identificadas, assim como sua afiliação taxonômica.
+
+[bold]Descrição externa do objeto:[/bold] [form]
+
+[bold]Propriedades identificadas do objeto:[/bold] [form]
+
+[color=#8a1c1c][bold]SEM ASSINATURA E CARIMBO, SEM VALIDADE[/bold][/color]
+
+         [color=#d4af37][bold]PELA JUSTIÇA, PELA ORDEM, PELA NANOTRASEN.[/bold][/color]
+
+                            [color=#1b487e][head=3][bold]GLÓRIA A NANOTRASEN![/bold][/head][/color]
+
+                                      [italic]Espaço para Carimbos[/italic]
 doc-text-printer-ExperimentReport =
-    ⠀[color=#1b487e]███░███░░░░██░░░░[/color]
-    ⠀[color=#1b487e]░██░████░░░██░░░░[/color]      [head=3]Documento em Branco[/head]
-    ⠀[color=#1b487e]░░█░██░██░░██░█░░[/color]               [head=3]NanoTrasen[/head]
-    ⠀[color=#1b487e]░░░░██░░██░██░██░[/color] [bold]Estação XX-000 NRD-COM[/bold]
-   ⠀ [color=#1b487e]░░░░██░░░████░███[/color]
-    =============================================
-                        RELATÓRIO DE EXPERIMENTO
-    =============================================
-    Tempo desde o início do turno:
-    Redator do documento:
-    Posição do redator:
+[color=#1b487e]════════════════════════════NANOTRASEN══
 
-    Descrição externa do objeto do experimento:
+ █▄ █ ▀█▀    [head=3][color=#d4af37]DIVISÃO DE PESQUISA[/color][/head]
+ █ ▀█  █     [italic]Estação [form][/italic]
+             Emitido: [form].[form].3026
+[/color]
+[color=#1b487e]════════════════════════════════════════[/color]
 
-    Experimentador(-es):
+[head=2][color=#d4af37]RELATÓRIO DE EXPERIMENTO[/color][/head]
 
-    Experimento nº...
-    Descrição do experimento:
+[bold]Tempo desde o início do turno:[/bold] [form]
+[bold]Redator do documento:[/bold] [signature]
 
-    Resultado esperado:
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+                                        [head=3][color=#d4af37]EXPERIMENTO[/color][/head]
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+[bold]Descrição externa do objeto do experimento:[/bold] [form]
 
-    Equipamento utilizado:
+[bold]Experimentador(-es):[/bold] [form]
 
-    Resultado real:
+[bold]Experimento nº:[/bold] [form]
+[bold]Descrição do experimento:[/bold] [form]
 
-    =============================================
-                                ⠀[italic]Espaço para carimbos[/italic]
+[bold]Resultado esperado:[/bold] [form]
+
+[bold]Equipamento utilizado:[/bold] [form]
+
+[bold]Resultado real:[/bold] [form]
+
+[color=#8a1c1c][bold]SEM ASSINATURA E CARIMBO, SEM VALIDADE[/bold][/color]
+
+         [color=#d4af37][bold]PELA JUSTIÇA, PELA ORDEM, PELA NANOTRASEN.[/bold][/color]
+
+                            [color=#1b487e][head=3][bold]GLÓRIA A NANOTRASEN![/bold][/head][/color]
+
+                                      [italic]Espaço para Carimbos[/italic]
 doc-text-printer-DisposalReport =
-    ⠀[color=#1b487e]███░███░░░░██░░░░[/color]
-    ⠀[color=#1b487e]░██░████░░░██░░░░[/color]      [head=3]Documento em Branco[/head]
-    ⠀[color=#1b487e]░░█░██░██░░██░█░░[/color]               [head=3]NanoTrasen[/head]
-    ⠀[color=#1b487e]░░░░██░░██░██░██░[/color] [bold]Estação XX-000 SNB[/bold]
-    ⠀[color=#1b487e]░░░░██░░░████░███[/color]
-    =============================================
-                        RELATÓRIO DE DESCARTE
-    =============================================
-    Tempo desde o início do turno:
-    Redator do documento:
-    Posição do redator:
+[color=#1b487e]════════════════════════════NANOTRASEN══
 
-    O Departamento de Suprimentos realizou o descarte de objetos por meio de (método de descarte). Durante o processo de descarte, foram encontrados itens valiosos, que foram encaminhados aos departamentos correspondentes para   utilização.
-    Lista de itens encontrados:
+ █▄ █ ▀█▀    [head=3][color=#d4af37]DIVISÃO DE LOGÍSTICA[/color][/head]
+ █ ▀█  █     [italic]Estação [form][/italic]
+             Emitido: [form].[form].3026
+[/color]
+[color=#1b487e]════════════════════════════════════════[/color]
 
-    =============================================
-                                ⠀[italic]Espaço para carimbos[/italic]
+[head=2][color=#d4af37]RELATÓRIO DE DESCARTE[/color][/head]
+
+[bold]Tempo desde o início do turno:[/bold] [form]
+[bold]Redator do documento:[/bold] [signature]
+
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+                                             [head=3][color=#d4af37]DESCARTE[/color][/head]
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+O Departamento de Suprimentos realizou o descarte de objetos por meio de [form] (método de descarte). Durante o processo de descarte, foram encontrados itens valiosos, que foram encaminhados aos departamentos correspondentes para utilização.
+
+[bold]Lista de itens encontrados:[/bold] [form]
+
+[color=#8a1c1c][bold]SEM ASSINATURA E CARIMBO, SEM VALIDADE[/bold][/color]
+
+         [color=#d4af37][bold]PELA JUSTIÇA, PELA ORDEM, PELA NANOTRASEN.[/bold][/color]
+
+                            [color=#1b487e][head=3][bold]GLÓRIA A NANOTRASEN![/bold][/head][/color]
+
+                                      [italic]Espaço para Carimbos[/italic]
 doc-text-printer-ApplicationAppointmentInterim =
-    ⠀[color=#1b487e]███░███░░░░██░░░░[/color]
-    ⠀[color=#1b487e]░██░████░░░██░░░░[/color]      [head=3]Documento em Branco[/head]
-    ⠀[color=#1b487e]░░█░██░██░░██░█░░[/color]               [head=3]NanoTrasen[/head]
-    ⠀[color=#1b487e]░░░░██░░██░██░██░[/color] [bold]Estação XX-000 COM[/bold]
-    ⠀[color=#1b487e]░░░░██░░░████░███[/color]
-    =============================================
-                    REQUERIMENTO DE NOMEAÇÃO INTERINA
-    =============================================
-    Tempo desde o início do turno:
-    Redator do documento:
-    Posição do redator:
+[color=#1b487e]════════════════════════════NANOTRASEN══
 
-    Eu, (NOME), no cargo de (nome completo do cargo), solicito a aprovação da minha nomeação para o cargo de Interino Chefe (nome completo do departamento)/Capitão.
-    Ao assumir o cargo, comprometo-me a seguir os Procedimentos Operacionais Padrão e, até a chegada do Chefe (nome completo do departamento)/Capitão da  Central de Comando, garantir a ordem e a gestão do departamento, assegurando a preservação dos itens especialmente valiosos e equipamentos confiados a mim.
+ █▄ █ ▀█▀    [head=3][color=#d4af37]COMANDO DA ESTAÇÃO[/color][/head]
+ █ ▀█  █     [italic]Estação [form][/italic]
+             Emitido: [form].[form].3026
+[/color]
+[color=#1b487e]════════════════════════════════════════[/color]
 
-    Na chegada do Chefe do departamento/Capitão da Central de Comando, comprometo-me a devolver o acesso elevado, os itens especialmente valiosos e o equipamento.
-    =============================================
-                                ⠀[italic]Espaço para carimbos[/italic]
+[head=2][color=#d4af37]REQUERIMENTO DE NOMEAÇÃO INTERINA[/color][/head]
+
+[bold]Tempo desde o início do turno:[/bold] [form]
+[bold]Redator do documento:[/bold] [signature]
+
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+                                            [head=3][color=#d4af37]NOMEAÇÃO[/color][/head]
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+Eu, [form], no cargo de [form], solicito a aprovação da minha nomeação para o cargo de:
+   [check] Interino Chefe do departamento [form]
+   [check] Interino Capitão
+
+Ao assumir o cargo, comprometo-me a seguir os Procedimentos Operacionais Padrão e, até a chegada do Chefe do departamento/Capitão da Central de Comando, garantir a ordem e a gestão do departamento, assegurando a preservação dos itens especialmente valiosos e equipamentos confiados a mim.
+
+Na chegada do Chefe do departamento/Capitão da Central de Comando, comprometo-me a devolver o acesso elevado, os itens especialmente valiosos e o equipamento.
+
+[color=#8a1c1c][bold]SEM ASSINATURA E CARIMBO, SEM VALIDADE[/bold][/color]
+
+         [color=#d4af37][bold]PELA JUSTIÇA, PELA ORDEM, PELA NANOTRASEN.[/bold][/color]
+
+                            [color=#1b487e][head=3][bold]GLÓRIA A NANOTRASEN![/bold][/head][/color]
+
+                                      [italic]Espaço para Carimbos[/italic]
 doc-text-printer-ApplicationEmployment =
-    ⠀[color=#1b487e]███░███░░░░██░░░░[/color]
-    ⠀[color=#1b487e]░██░████░░░██░░░░[/color]      [head=3]Documento em Branco[/head]
-    ⠀[color=#1b487e]░░█░██░██░░██░█░░[/color]               [head=3]NanoTrasen[/head]
-    ⠀[color=#1b487e]░░░░██░░██░██░██░[/color] [bold]Estação XX-000 PD-COM[/bold]
-    ⠀[color=#1b487e]░░░░██░░░████░███[/color]
-    =============================================
-                        REQUERIMENTO DE EMPREGO
-    =============================================
-    Tempo desde o início do turno:
-    Redator do documento:
-    Posição do redator:
+[color=#1b487e]════════════════════════════NANOTRASEN══
 
-    Eu, (NOME), atualmente no cargo de (nome completo do cargo), solicito ser designado como membro do (nome do departamento de emprego) no cargo de (nome completo do cargo).
-    Comprometo-me a seguir os Procedimentos Operacionais Padrão do departamento. Comprometo-me a devolver o equipamento de trabalho e uniforme do departamento de origem ao ser transferido.
-    =============================================
-                                ⠀[italic]Espaço para carimbos[/italic]
+ █▄ █ ▀█▀    [head=3][color=#d4af37]RECURSOS HUMANOS[/color][/head]
+ █ ▀█  █     [italic]Estação [form][/italic]
+             Emitido: [form].[form].3026
+[/color]
+[color=#1b487e]════════════════════════════════════════[/color]
+
+[head=2][color=#d4af37]REQUERIMENTO DE EMPREGO[/color][/head]
+
+[bold]Tempo desde o início do turno:[/bold] [form]
+[bold]Redator do documento:[/bold] [signature]
+
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+                                        [head=3][color=#d4af37]CANDIDATURA[/color][/head]
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+Eu, [form], atualmente no cargo de [form], solicito ser designado como membro do departamento [form] no cargo de [form].
+
+Comprometo-me a seguir os Procedimentos Operacionais Padrão do departamento. Comprometo-me a devolver o equipamento de trabalho e uniforme do departamento de origem ao ser transferido.
+
+[color=#8a1c1c][bold]SEM ASSINATURA E CARIMBO, SEM VALIDADE[/bold][/color]
+
+         [color=#d4af37][bold]PELA JUSTIÇA, PELA ORDEM, PELA NANOTRASEN.[/bold][/color]
+
+                            [color=#1b487e][head=3][bold]GLÓRIA A NANOTRASEN![/bold][/head][/color]
+
+                                      [italic]Espaço para Carimbos[/italic]
 doc-text-printer-LetterResignation =
-    ⠀[color=#1b487e]███░███░░░░██░░░░[/color]
-    ⠀[color=#1b487e]░██░████░░░██░░░░[/color]      [head=3]Documento em Branco[/head]
-    ⠀[color=#1b487e]░░█░██░██░░██░█░░[/color]               [head=3]NanoTrasen[/head]
-    ⠀[color=#1b487e]░░░░██░░██░██░██░[/color] [bold]Estação XX-000 PD-COM[/bold]
-    ⠀[color=#1b487e]░░░░██░░░████░███[/color]
-    =============================================
-                        DECLARAÇÃO DE RESIGNAÇÃO
-    =============================================
-    Tempo desde o início do turno:
-    Redator do documento:
-    Posição do redator:
+[color=#1b487e]════════════════════════════NANOTRASEN══
 
-    Eu, (NOME), atualmente no cargo de (nome completo do cargo), desejo renunciar ao departamento (nome do departamento) por motivo de (motivo).
-    Comprometo-me a pagar a multa estabelecida pelos termos da rescisão do contrato, seja ele a prazo ou sem prazo, na estação da Central Command.
-    =============================================
-                                ⠀[italic]Espaço para carimbos[/italic]
+ █▄ █ ▀█▀    [head=3][color=#d4af37]COMANDO DA ESTAÇÃO[/color][/head]
+ █ ▀█  █     [italic]Estação [form][/italic]
+             Emitido: [form].[form].3026
+[/color]
+[color=#1b487e]════════════════════════════════════════[/color]
 
+[head=2][color=#d4af37]DECLARAÇÃO DE RESIGNAÇÃO[/color][/head]
+
+[bold]Tempo desde o início do turno:[/bold] [form]
+[bold]Redator do documento:[/bold] [signature]
+
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+                                            [head=3][color=#d4af37]RENÚNCIA[/color][/head]
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+Eu, [form], atualmente no cargo de [form], desejo renunciar ao departamento [form] por motivo de [form].
+
+Comprometo-me a pagar a multa estabelecida pelos termos da rescisão do contrato, seja ele a prazo ou sem prazo, na estação da Central Command.
+
+[color=#8a1c1c][bold]SEM ASSINATURA E CARIMBO, SEM VALIDADE[/bold][/color]
+
+         [color=#d4af37][bold]PELA JUSTIÇA, PELA ORDEM, PELA NANOTRASEN.[/bold][/color]
+
+                            [color=#1b487e][head=3][bold]GLÓRIA A NANOTRASEN![/bold][/head][/color]
+
+                                      [italic]Espaço para Carimbos[/italic]
 doc-text-printer-ApplicationAccess =
-    ⠀[color=#1b487e]███░███░░░░██░░░░[/color]
-    ⠀[color=#1b487e]░██░████░░░██░░░░[/color]      [head=3]Documento em Branco[/head]
-    ⠀[color=#1b487e]░░█░██░██░░██░█░░[/color]               [head=3]NanoTrasen[/head]
-    ⠀[color=#1b487e]░░░░██░░██░██░██░[/color] [bold]Estação XX-000 PD-COM[/bold]
-    ⠀[color=#1b487e]░░░░██░░░████░███[/color]
-    =============================================
-                    PEDIDO DE ACESSO
-    =============================================
-    Tempo desde o início do turno:
-    Redator do documento:
-    Posição do redator:
+[color=#1b487e]════════════════════════════NANOTRASEN══
 
-    Eu, (NOME), no cargo de (nome completo do cargo), solicito a concessão dos seguintes acessos:
+ █▄ █ ▀█▀    [head=3][color=#d4af37]ADMINISTRAÇÃO DE ACESSOS[/color][/head]
+ █ ▀█  █     [italic]Estação [form][/italic]
+             Emitido: [form].[form].3026
+[/color]
+[color=#1b487e]════════════════════════════════════════[/color]
 
-    Motivo para obtenção de acesso elevado:
+[head=2][color=#d4af37]PEDIDO DE ACESSO[/color][/head]
 
-    =============================================
-                                ⠀[italic]Espaço para carimbos[/italic]
+[bold]Tempo desde o início do turno:[/bold] [form]
+[bold]Redator do documento:[/bold] [signature]
+
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+                                        [head=3][color=#d4af37]SOLICITAÇÃO[/color][/head]
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+Eu, [form], no cargo de [form], solicito a concessão dos seguintes acessos:
+[form]
+
+[bold]Motivo para obtenção de acesso elevado:[/bold] [form]
+
+[color=#8a1c1c][bold]SEM ASSINATURA E CARIMBO, SEM VALIDADE[/bold][/color]
+
+         [color=#d4af37][bold]PELA JUSTIÇA, PELA ORDEM, PELA NANOTRASEN.[/bold][/color]
+
+                            [color=#1b487e][head=3][bold]GLÓRIA A NANOTRASEN![/bold][/head][/color]
+
+                                      [italic]Espaço para Carimbos[/italic]
 doc-text-printer-ApplicationEquipment =
-    ⠀[color=#1b487e]███░███░░░░██░░░░[/color]
-    ⠀[color=#1b487e]░██░████░░░██░░░░[/color]      [head=3]Documento em Branco[/head]
-    ⠀[color=#1b487e]░░█░██░██░░██░█░░[/color]               [head=3]NanoTrasen[/head]
-    ⠀[color=#1b487e]░░░░██░░██░██░██░[/color] [bold]Estação XX-000 PD-COM[/bold]
-    ⠀[color=#1b487e]░░░░██░░░████░███[/color]
-    =============================================
-                    PEDIDO DE EQUIPAMENTO
-    =============================================
-    Tempo desde o início do turno:
-    Redator do documento:
-    Posição do redator:
+[color=#1b487e]════════════════════════════NANOTRASEN══
 
-    Eu, (NOME), no cargo de (nome completo do cargo), solicito a emissão do seguinte equipamento do departamento (nome do departamento)/equipamento pessoal:
+ █▄ █ ▀█▀    [head=3][color=#d4af37]DIVISÃO DE LOGÍSTICA[/color][/head]
+ █ ▀█  █     [italic]Estação [form][/italic]
+             Emitido: [form].[form].3026
+[/color]
+[color=#1b487e]════════════════════════════════════════[/color]
 
-    Motivo para a obtenção do equipamento:
+[head=2][color=#d4af37]PEDIDO DE EQUIPAMENTO[/color][/head]
 
-    =============================================
-                                ⠀[italic]Espaço para carimbos[/italic]
+[bold]Tempo desde o início do turno:[/bold] [form]
+[bold]Redator do documento:[/bold] [signature]
 
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+                                         [head=3][color=#d4af37]REQUISIÇÃO[/color][/head]
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+Eu, [form], no cargo de [form], solicito a emissão do seguinte equipamento:
+   [check] Equipamento do departamento [form]
+   [check] Equipamento pessoal
+
+[bold]Equipamento solicitado:[/bold]
+[form]
+
+[bold]Motivo para a obtenção do equipamento:[/bold] [form]
+
+[color=#8a1c1c][bold]SEM ASSINATURA E CARIMBO, SEM VALIDADE[/bold][/color]
+
+         [color=#d4af37][bold]PELA JUSTIÇA, PELA ORDEM, PELA NANOTRASEN.[/bold][/color]
+
+                            [color=#1b487e][head=3][bold]GLÓRIA A NANOTRASEN![/bold][/head][/color]
+
+                                      [italic]Espaço para Carimbos[/italic]
 doc-text-printer-Appeal =
-    ⠀[color=#1b487e]███░███░░░░██░░░░[/color]
-    ⠀[color=#1b487e]░██░████░░░██░░░░[/color]      [head=3]Documento em Branco[/head]
-    ⠀[color=#1b487e]░░█░██░██░░██░█░░[/color]               [head=3]NanoTrasen[/head]
-    ⠀[color=#1b487e]░░░░██░░██░██░██░[/color] [bold]Estação XX-000 PD-COM[/bold]
-    ⠀[color=#1b487e]░░░░██░░░████░███[/color]
-    =============================================
-                            APELO
-    =============================================
-    Tempo desde o início do turno:
-    Redator do documento:
-    Posição do redator:
+[color=#1b487e]════════════════════════════NANOTRASEN══
 
-    Eu, (NOME), no cargo de (nome completo do cargo), solicito que (NOME), no cargo de (nome completo do cargo), considere minha solicitação.
-    Conteúdo do apelo:
+ █▄ █ ▀█▀    [head=3][color=#d4af37]COMANDO DA ESTAÇÃO[/color][/head]
+ █ ▀█  █     [italic]Estação [form][/italic]
+             Emitido: [form].[form].3026
+[/color]
+[color=#1b487e]════════════════════════════════════════[/color]
 
-    Razões para sua redação:
+[head=2][color=#d4af37]APELO[/color][/head]
 
-    =============================================
-                                ⠀[italic]Espaço para carimbos[/italic]
+[bold]Tempo desde o início do turno:[/bold] [form]
+[bold]Redator do documento:[/bold] [signature]
+
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+       [head=3][color=#d4af37]                           SOLICITAÇÃO[/color][/head]
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+Eu, [form], no cargo de [form], solicito que [form], no cargo de [form], considere minha solicitação.
+
+[bold]Conteúdo do apelo:[/bold] [form]
+
+[bold]Razões para sua redação:[/bold] [form]
+
+[color=#8a1c1c][bold]SEM ASSINATURA E CARIMBO, SEM VALIDADE[/bold][/color]
+
+         [color=#d4af37][bold]   PELA JUSTIÇA, PELA ORDEM, PELA NANOTRASEN.[/bold][/color]
+                     
+[color=#1b487e][head=3][bold]                       GLÓRIA A NANOTRASEN![/bold][/head][/color]
+
+                                    [italic]  Espaço para Carimbos[/italic]
 doc-text-printer-EvacuationShuttleRequest =
-    ⠀[color=#1b487e]███░███░░░░██░░░░[/color]
-    ⠀[color=#1b487e]░██░████░░░██░░░░[/color]      [head=3]Documento em Branco[/head]
-    ⠀[color=#1b487e]░░█░██░██░░██░█░░[/color]               [head=3]NanoTrasen[/head]
-    ⠀[color=#1b487e]░░░░██░░██░██░██░[/color] [bold]Estação XX-000 COM-CC[/bold]
-    ⠀[color=#1b487e]░░░░██░░░████░███[/color]
-    =============================================
-                    PEDIDO DE NAVE DE EVACUAÇÃO
-    =============================================
-    Tempo desde o início do turno:
-    Redator do documento:
-    Posição do redator:
+[color=#1b487e]════════════════════════════NANOTRASEN══
 
-    Respeitável Central de Comando! Eu, (NOME), no cargo de (nome completo do cargo), solicito a ativação dos protocolos de evacuação e o envio da nave de evacuação, após a decisão de encerrar o turno.
-    Motivo para o encerramento do turno:
+ █▄ █ ▀█▀    [head=3][color=#d4af37]COMANDO DA ESTAÇÃO[/color][/head]
+ █ ▀█  █     [italic]Estação [form][/italic]
+             Emitido: [form].[form].3026
+[/color]
+[color=#1b487e]════════════════════════════════════════[/color]
 
-    =============================================
-                                ⠀[italic]Espaço para carimbos[/italic]
+[head=2][color=#d4af37]PEDIDO DE NAVE DE EVACUAÇÃO[/color][/head]
 
+[bold]Tempo desde o início do turno:[/bold] [form]
+[bold]Redator do documento:[/bold] [signature]
+
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+                                           [head=3][color=#d4af37]EVACUAÇÃO[/color][/head]
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+Respeitável Central de Comando! Eu, [form], no cargo de [form], solicito a ativação dos protocolos de evacuação e o envio da nave de evacuação, após a decisão de encerrar o turno.
+
+[bold]Motivo para o encerramento do turno:[/bold] [form]
+
+[color=#8a1c1c][bold]SEM ASSINATURA E CARIMBO, SEM VALIDADE[/bold][/color]
+
+         [color=#d4af37][bold]PELA JUSTIÇA, PELA ORDEM, PELA NANOTRASEN.[/bold][/color]
+
+                            [color=#1b487e][head=3][bold]GLÓRIA A NANOTRASEN![/bold][/head][/color]
+
+                                      [italic]Espaço para Carimbos[/italic]
 doc-text-printer-ShuttleRegistrationRequest =
-    ⠀[color=#1b487e]███░███░░░░██░░░░[/color]
-    ⠀[color=#1b487e]░██░████░░░██░░░░[/color]      [head=3]Documento em Branco[/head]
-    ⠀[color=#1b487e]░░█░██░██░░██░█░░[/color]               [head=3]NanoTrasen[/head]
-    ⠀[color=#1b487e]░░░░██░░██░██░██░[/color] [bold]Estação XX-000 COM-CC[/bold]
-    ⠀[color=#1b487e]░░░░██░░░████░███[/color]
-    =============================================
-                        PEDIDO DE REGISTRO DE NAVE
-    =============================================
-    Tempo desde o início do turno:
-    Redator do documento:
-    Posição do redator:
+[color=#1b487e]════════════════════════════NANOTRASEN══
 
-    Eu, (NOME), no cargo de (nome completo do cargo), solicito o registro da nave no sistema NanoTrasen para identificação.
-    Dimensões da nave:
+ █▄ █ ▀█▀    [head=3][color=#d4af37]REGISTRO NAVAL[/color][/head]
+ █ ▀█  █     [italic]Estação [form][/italic]
+             Emitido: [form].[form].3026
+[/color]
+[color=#1b487e]════════════════════════════════════════[/color]
 
-    Classe da nave:
+[head=2][color=#d4af37]PEDIDO DE REGISTRO DE NAVE[/color][/head]
 
-    Responsável pela construção:
+[bold]Tempo desde o início do turno:[/bold] [form]
+[bold]Redator do documento:[/bold] [signature]
 
-    Nome solicitado:
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+                                            [head=3][color=#d4af37]REGISTRO[/color][/head]
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+Eu, [form], no cargo de [form], solicito o registro da nave no sistema NanoTrasen para identificação.
 
-    =============================================
-                                ⠀[italic]Espaço para carimbos[/italic]
+[bold]Dimensões da nave:[/bold] [form]
 
+[bold]Classe da nave:[/bold] [form]
+
+[bold]Responsável pela construção:[/bold] [form]
+
+[bold]Nome solicitado:[/bold] [form]
+
+[color=#8a1c1c][bold]SEM ASSINATURA E CARIMBO, SEM VALIDADE[/bold][/color]
+
+         [color=#d4af37][bold]PELA JUSTIÇA, PELA ORDEM, PELA NANOTRASEN.[/bold][/color]
+
+                            [color=#1b487e][head=3][bold]GLÓRIA A NANOTRASEN![/bold][/head][/color]
+
+                                      [italic]Espaço para Carimbos[/italic]
 doc-text-printer-RequestCallMembersCentralCommitteeDSO =
-    ⠀[color=#1b487e]███░███░░░░██░░░░[/color]
-    ⠀[color=#1b487e]░██░████░░░██░░░░[/color]      [head=3]Documento em Branco[/head]
-    ⠀[color=#1b487e]░░█░██░██░░██░█░░[/color]               [head=3]NanoTrasen[/head]
-    ⠀[color=#1b487e]░░░░██░░██░██░██░[/color] [bold]Estação XX-000 COM-CC[/bold]
-    ⠀[color=#1b487e]░░░░██░░░████░███[/color]
-    =============================================
-                    SOLICITAÇÃO DE CHAMADA DE MEMBROS DO CC, DSO
-    =============================================
-    Tempo desde o início do turno:
-    Redator do documento:
-    Posição do redator:
+[color=#1b487e]════════════════════════════NANOTRASEN══
 
-    Eu, (NOME), no cargo de (nome completo do cargo), solicito a possibilidade de chamar para a estação:
+ █▄ █ ▀█▀    [head=3][color=#d4af37]COMANDO DA ESTAÇÃO[/color][/head]
+ █ ▀█  █     [italic]Estação [form][/italic]
+             Emitido: [form].[form].3026
+[/color]
+[color=#1b487e]════════════════════════════════════════[/color]
 
-    Razão da chamada:
+[head=2][color=#d4af37]SOLICITAÇÃO DE CHAMADA DE MEMBROS DO CC, DSO[/color][/head]
 
-    =============================================
-                                ⠀[italic]Espaço para carimbos[/italic]
+[bold]Tempo desde o início do turno:[/bold] [form]
+[bold]Redator do documento:[/bold] [signature]
 
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+                                         [head=3][color=#d4af37]CONVOCAÇÃO[/color][/head]
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+Eu, [form], no cargo de [form], solicito a possibilidade de chamar para a estação:
+[form]
+
+[bold]Razão da chamada:[/bold] [form]
+
+[color=#8a1c1c][bold]SEM ASSINATURA E CARIMBO, SEM VALIDADE[/bold][/color]
+
+         [color=#d4af37][bold]PELA JUSTIÇA, PELA ORDEM, PELA NANOTRASEN.[/bold][/color]
+
+                            [color=#1b487e][head=3][bold]GLÓRIA A NANOTRASEN![/bold][/head][/color]
+
+                                      [italic]Espaço para Carimbos[/italic]
 doc-text-printer-RequestToEstablishThreatLevel =
-    ⠀[color=#1b487e]███░███░░░░██░░░░[/color]
-    ⠀[color=#1b487e]░██░████░░░██░░░░[/color]      [head=3]Documento em Branco[/head]
-    ⠀[color=#1b487e]░░█░██░██░░██░█░░[/color]               [head=3]NanoTrasen[/head]
-    ⠀[color=#1b487e]░░░░██░░██░██░██░[/color] [bold]Estação XX-000 COM-CC[/bold]
-    ⠀[color=#1b487e]░░░░██░░░████░███[/color]
-    =============================================
-                    SOLICITAÇÃO PARA ESTABELECER O NÍVEL DE AMEAÇA
-    =============================================
-    Tempo desde o início do turno:
-    Redator do documento:
-    Posição do redator:
+[color=#1b487e]════════════════════════════NANOTRASEN══
 
-    Eu, (NOME), no cargo de (nome completo do cargo), solicito a avaliação da possibilidade de estabelecer o nível de ameaça na estação:
+ █▄ █ ▀█▀    [head=3][color=#d4af37]COMANDO DA ESTAÇÃO[/color][/head]
+ █ ▀█  █     [italic]Estação [form][/italic]
+             Emitido: [form].[form].3026
+[/color]
+[color=#1b487e]════════════════════════════════════════[/color]
 
-    Razão para estabelecer o código:
+[head=2][color=#d4af37]SOLICITAÇÃO PARA ESTABELECER O NÍVEL DE AMEAÇA[/color][/head]
 
-    =============================================
-                                ⠀[italic]Espaço para carimbos[/italic]
+[bold]Tempo desde o início do turno:[/bold] [form]
+[bold]Redator do documento:[/bold] [signature]
+
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+                                  [head=3][color=#d4af37]NÍVEL DE AMEAÇA[/color][/head]
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+Eu, [form], no cargo de [form], solicito a avaliação da possibilidade de estabelecer o nível de ameaça na estação.
+
+[bold]Razão para estabelecer o código:[/bold] [form]
+
+[color=#8a1c1c][bold]SEM ASSINATURA E CARIMBO, SEM VALIDADE[/bold][/color]
+
+         [color=#d4af37][bold]PELA JUSTIÇA, PELA ORDEM, PELA NANOTRASEN.[/bold][/color]
+
+                            [color=#1b487e][head=3][bold]GLÓRIA A NANOTRASEN![/bold][/head][/color]
+
+                                      [italic]Espaço para Carimbos[/italic]
 doc-text-printer-RequestChangeSalary =
-    ⠀[color=#1b487e]███░███░░░░██░░░░[/color]
-    ⠀[color=#1b487e]░██░████░░░██░░░░[/color]      [head=3]Documento em Branco[/head]
-    ⠀[color=#1b487e]░░█░██░██░░██░█░░[/color]               [head=3]NanoTrasen[/head]
-    ⠀[color=#1b487e]░░░░██░░██░██░██░[/color] [bold]Estação XX-000 COM-CC[/bold]
-    ⠀[color=#1b487e]░░░░██░░░████░███[/color]
-    =============================================
-            PEDIDO DE ALTERAÇÃO DE SALÁRIO
-    =============================================
-    Tempo desde o início do turno:
-    Redator do documento:
-    Posição do redator:
+[color=#1b487e]════════════════════════════NANOTRASEN══
 
-    Eu, (NOME), no cargo de (nome completo do cargo), solicito a avaliação da possibilidade de aumento/redução do salário em (quantidade ou percentagem) para o funcionário (NOME) no cargo de (nome completo do cargo)/departamento (nome do departamento)/turno atual.
-    Razão para o aumento/redução do salário:
+ █▄ █ ▀█▀    [head=3][color=#d4af37]RECURSOS HUMANOS[/color][/head]
+ █ ▀█  █     [italic]Estação [form][/italic]
+             Emitido: [form].[form].3026
+[/color]
+[color=#1b487e]════════════════════════════════════════[/color]
 
-    =============================================
-                                ⠀[italic]Espaço para carimbos[/italic]
+[head=2][color=#d4af37]PEDIDO DE ALTERAÇÃO DE SALÁRIO[/color][/head]
 
+[bold]Tempo desde o início do turno:[/bold] [form]
+[bold]Redator do documento:[/bold] [signature]
+
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+                                           [head=3][color=#d4af37]AVALIAÇÃO[/color][/head]
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+Eu, [form], no cargo de [form], solicito a avaliação da possibilidade de:
+   [check] Aumento
+   [check] Redução
+
+do salário em [form] (quantidade ou percentagem) para o funcionário [form] no cargo de [form], departamento [form], turno atual.
+
+[bold]Razão para o aumento/redução do salário:[/bold] [form]
+
+[color=#8a1c1c][bold]SEM ASSINATURA E CARIMBO, SEM VALIDADE[/bold][/color]
+
+         [color=#d4af37][bold]PELA JUSTIÇA, PELA ORDEM, PELA NANOTRASEN.[/bold][/color]
+
+                            [color=#1b487e][head=3][bold]GLÓRIA A NANOTRASEN![/bold][/head][/color]
+
+                                      [italic]Espaço para Carimbos[/italic]
 doc-text-printer-RequestForNonlistedEmployment =
-    ⠀[color=#1b487e]███░███░░░░██░░░░[/color]
-    ⠀[color=#1b487e]░██░████░░░██░░░░[/color]      [head=3]Documento em Branco[/head]
-    ⠀[color=#1b487e]░░█░██░██░░██░█░░[/color]               [head=3]NanoTrasen[/head]
-    ⠀[color=#1b487e]░░░░██░░██░██░██░[/color] [bold]Estação XX-000 COM-CC[/bold]
-    ⠀[color=#1b487e]░░░░██░░░████░███[/color]
-    =============================================
-            PEDIDO DE EMPREGO NÃO LISTADO
-    =============================================
-    Tempo desde o início do turno:
-    Redator do documento:
-    Posição do redator:
+[color=#1b487e]════════════════════════════NANOTRASEN══
 
-    Eu, (NOME), no cargo de (nome completo do cargo), solicito a avaliação da possibilidade de contratação imediata do funcionário (NOME) para um cargo não listado.
-    Nome completo do cargo:
+ █▄ █ ▀█▀    [head=3][color=#d4af37]RECURSOS HUMANOS[/color][/head]
+ █ ▀█  █     [italic]Estação [form][/italic]
+             Emitido: [form].[form].3026
+[/color]
+[color=#1b487e]════════════════════════════════════════[/color]
 
-    Responsável pelo funcionário, chefe ou colega:
+[head=2][color=#d4af37]PEDIDO DE EMPREGO NÃO LISTADO[/color][/head]
 
-    Tarefas realizadas no cargo (SRP):
+[bold]Tempo desde o início do turno:[/bold] [form]
+[bold]Redator do documento:[/bold] [signature]
 
-    Acessos concedidos ao funcionário:
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+                                        [head=3][color=#d4af37]CONTRATAÇÃO[/color][/head]
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+Eu, [form], no cargo de [form], solicito a avaliação da possibilidade de contratação imediata do funcionário [form] para um cargo não listado.
 
-    Razão para a contratação:
+[bold]Nome completo do cargo:[/bold] [form]
 
-    =============================================
-                                ⠀[italic]Espaço para carimbos[/italic]
+[bold]Responsável pelo funcionário, chefe ou colega:[/bold] [form]
 
+[bold]Tarefas realizadas no cargo (SRP):[/bold] [form]
+
+[bold]Acessos concedidos ao funcionário:[/bold] [form]
+
+[bold]Razão para a contratação:[/bold] [form]
+
+[color=#8a1c1c][bold]SEM ASSINATURA E CARIMBO, SEM VALIDADE[/bold][/color]
+
+         [color=#d4af37][bold]PELA JUSTIÇA, PELA ORDEM, PELA NANOTRASEN.[/bold][/color]
+
+                            [color=#1b487e][head=3][bold]GLÓRIA A NANOTRASEN![/bold][/head][/color]
+
+                                      [italic]Espaço para Carimbos[/italic]
 doc-text-printer-RequestForPromotion=
-    ⠀[color=#1b487e]███░███░░░░██░░░░[/color]
-    ⠀[color=#1b487e]░██░████░░░██░░░░[/color]      [head=3]Documento em Branco[/head]
-    ⠀[color=#1b487e]░░█░██░██░░██░█░░[/color]               [head=3]NanoTrasen[/head]
-    ⠀[color=#1b487e]░░░░██░░██░██░██░[/color] [bold]Estação XX-000 COM-CC[/bold]
-    ⠀[color=#1b487e]░░░░██░░░████░███[/color]
-    =============================================
-            PEDIDO DE PROMOÇÃO
-    =============================================
-    Tempo desde o início do turno:
-    Redator do documento:
-    Posição do redator:
+[color=#1b487e]════════════════════════════NANOTRASEN══
 
-    Eu, (NOME), no cargo de (nome completo do cargo), solicito a avaliação da possibilidade de promoção de (NOME) no cargo de (nome completo do cargo), de acordo com a hierarquia de comando. O funcionário adquiriu a qualificação necessária para este trabalho.
-    Cargo solicitado:
+ █▄ █ ▀█▀    [head=3][color=#d4af37]RECURSOS HUMANOS[/color][/head]
+ █ ▀█  █     [italic]Estação [form][/italic]
+             Emitido: [form].[form].3026
+[/color]
+[color=#1b487e]════════════════════════════════════════[/color]
 
-    Responsável pelo funcionário, chefe ou colega:
+[head=2][color=#d4af37]PEDIDO DE PROMOÇÃO[/color][/head]
 
-    Razão para a promoção:
+[bold]Tempo desde o início do turno:[/bold] [form]
+[bold]Redator do documento:[/bold] [signature]
 
-    =============================================
-                                ⠀[italic]Espaço para carimbos[/italic]
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+                                            [head=3][color=#d4af37]PROMOÇÃO[/color][/head]
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+Eu, [form], no cargo de [form], solicito a avaliação da possibilidade de promoção de [form] no cargo de [form], de acordo com a hierarquia de comando. O funcionário adquiriu a qualificação necessária para este trabalho.
+
+[bold]Cargo solicitado:[/bold] [form]
+
+[bold]Responsável pelo funcionário, chefe ou colega:[/bold] [form]
+
+[bold]Razão para a promoção:[/bold] [form]
+
+[color=#8a1c1c][bold]SEM ASSINATURA E CARIMBO, SEM VALIDADE[/bold][/color]
+
+         [color=#d4af37][bold]PELA JUSTIÇA, PELA ORDEM, PELA NANOTRASEN.[/bold][/color]
+
+                            [color=#1b487e][head=3][bold]GLÓRIA A NANOTRASEN![/bold][/head][/color]
+
+                                      [italic]Espaço para Carimbos[/italic]
 doc-text-printer-RequestDocuments=
-    ⠀[color=#1b487e]███░███░░░░██░░░░[/color]
-    ⠀[color=#1b487e]░██░████░░░██░░░░[/color]      [head=3]Documento em Branco[/head]
-    ⠀[color=#1b487e]░░█░██░██░░██░█░░[/color]               [head=3]NanoTrasen[/head]
-    ⠀[color=#1b487e]░░░░██░░██░██░██░[/color] [bold]Estação XX-000 JUR-CODE[/bold]
-    ⠀[color=#1b487e]░░░░██░░░████░███[/color]
-    =============================================
-            SOLICITAÇÃO DE DOCUMENTOS
-    =============================================
-    Tempo desde o início do turno:
-    Redator do documento:
-    Posição do redator:
+[color=#1b487e]════════════════════════════NANOTRASEN══
 
-    Eu, (NOME), no cargo de Agente Interno, solicito a entrega de uma cópia/original dos documentos para verificação da conformidade com a Lei Corporativa:
+ █▄ █ ▀█▀    [head=3][color=#d4af37]ASSUNTOS INTERNOS[/color][/head]
+ █ ▀█  █     [italic]Estação [form][/italic]
+             Emitido: [form].[form].3026
+[/color]
+[color=#1b487e]════════════════════════════════════════[/color]
 
-    =============================================
-                                ⠀[italic]Espaço para carimbos[/italic]
+[head=2][color=#d4af37]SOLICITAÇÃO DE DOCUMENTOS[/color][/head]
 
+[bold]Tempo desde o início do turno:[/bold] [form]
+[bold]Redator do documento:[/bold] [signature]
+
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+                                        [head=3][color=#d4af37]VERIFICAÇÃO[/color][/head]
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+Eu, [form], no cargo de Agente Interno, solicito a entrega de:
+   [check] Cópia
+   [check] Original
+
+dos documentos para verificação da conformidade com a Lei Corporativa:
+[form]
+
+[color=#8a1c1c][bold]SEM ASSINATURA E CARIMBO, SEM VALIDADE[/bold][/color]
+
+         [color=#d4af37][bold]PELA JUSTIÇA, PELA ORDEM, PELA NANOTRASEN.[/bold][/color]
+
+                            [color=#1b487e][head=3][bold]GLÓRIA A NANOTRASEN![/bold][/head][/color]
+
+                                      [italic]Espaço para Carimbos[/italic]
 doc-text-printer-RequestEuthanasia =
-    ⠀[color=#1b487e]███░███░░░░██░░░░[/color]
-    ⠀[color=#1b487e]░██░████░░░██░░░░[/color]      [head=3]Documento em Branco[/head]
-    ⠀[color=#1b487e]░░█░██░██░░██░█░░[/color]               [head=3]NanoTrasen[/head]
-    ⠀[color=#1b487e]░░░░██░░██░██░██░[/color] [bold]Estação XX-000 PD-MED[/bold]
-    ⠀[color=#1b487e]░░░░██░░░████░███[/color]
-    =============================================
-            SOLICITAÇÃO DE EUTANÁSIA
-    =============================================
-    Tempo desde o início do turno:
-    Redator do documento:
-    Posição do redator:
+[color=#1b487e]════════════════════════════NANOTRASEN══
 
-    Eu, (NOME), no cargo de (nome completo do cargo), solicito a assistência do departamento médico para realizar a eutanásia como tratamento médico devido a (indicar a razão para a solicitação). Estou ciente das consequências dessa decisão, e a equipe médica confirmou a razoabilidade e humanidade dessa decisão, observando os protocolos de eutanásia.
-    Após o procedimento, solicito a eliminação do corpo por (método de eliminação), se possível.
+ █▄ █ ▀█▀    [head=3][color=#d4af37]DEPARTAMENTO MÉDICO[/color][/head]
+ █ ▀█  █     [italic]Estação [form][/italic]
+             Emitido: [form].[form].3026
+[/color]
+[color=#1b487e]════════════════════════════════════════[/color]
 
-    =============================================
-                                ⠀[italic]Espaço para carimbos[/italic]
+[head=2][color=#d4af37]SOLICITAÇÃO DE EUTANÁSIA[/color][/head]
+
+[bold]Tempo desde o início do turno:[/bold] [form]
+[bold]Redator do documento:[/bold] [signature]
+
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+                                         [head=3][color=#d4af37]TRATAMENTO[/color][/head]
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+Eu, [form], no cargo de [form], solicito a assistência do departamento médico para realizar a eutanásia como tratamento médico devido a [form] (razão para a solicitação). Estou ciente das consequências dessa decisão, e a equipe médica confirmou a razoabilidade e humanidade dessa decisão, observando os protocolos de eutanásia.
+
+Após o procedimento, solicito a eliminação do corpo por [form] (método de eliminação), se possível.
+
+[color=#8a1c1c][bold]SEM ASSINATURA E CARIMBO, SEM VALIDADE[/bold][/color]
+
+         [color=#d4af37][bold]PELA JUSTIÇA, PELA ORDEM, PELA NANOTRASEN.[/bold][/color]
+
+                            [color=#1b487e][head=3][bold]GLÓRIA A NANOTRASEN![/bold][/head][/color]
+
+                                      [italic]Espaço para Carimbos[/italic]
 doc-text-printer-RequestConstructionWork =
-    ⠀[color=#1b487e]███░███░░░░██░░░░[/color]
-    ⠀[color=#1b487e]░██░████░░░██░░░░[/color]      [head=3]Documento em Branco[/head]
-    ⠀[color=#1b487e]░░█░██░██░░██░█░░[/color]               [head=3]NanoTrasen[/head]
-    ⠀[color=#1b487e]░░░░██░░██░██░██░[/color] [bold]Estação XX-000 COD-ENG[/bold]
-    ⠀[color=#1b487e]░░░░██░░░████░███[/color]
-    =============================================
-        SOLICITAÇÃO DE TRABALHOS DE CONSTRUÇÃO
-    =============================================
-    Tempo desde o início do turno:
-    Redator do documento:
-    Posição do redator:
+[color=#1b487e]════════════════════════════NANOTRASEN══
 
-    Eu, (NOME), no cargo de (nome completo do cargo), solicito a realização de trabalhos de construção em (nome do departamento ou objeto) devido a (razão do pedido).
-    Lista de trabalhos de construção:
+ █▄ █ ▀█▀    [head=3][color=#d4af37]DIVISÃO DE ENGENHARIA[/color][/head]
+ █ ▀█  █     [italic]Estação [form][/italic]
+             Emitido: [form].[form].3026
+[/color]
+[color=#1b487e]════════════════════════════════════════[/color]
 
-    =============================================
-                                ⠀[italic]Espaço para carimbos[/italic]
+[head=2][color=#d4af37]SOLICITAÇÃO DE TRABALHOS DE CONSTRUÇÃO[/color][/head]
 
+[bold]Tempo desde o início do turno:[/bold] [form]
+[bold]Redator do documento:[/bold] [signature]
+
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+                                         [head=3][color=#d4af37]CONSTRUÇÃO[/color][/head]
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+Eu, [form], no cargo de [form], solicito a realização de trabalhos de construção em [form] (nome do departamento ou objeto) devido a [form] (razão do pedido).
+
+[bold]Lista de trabalhos de construção:[/bold]
+[form]
+
+[color=#8a1c1c][bold]SEM ASSINATURA E CARIMBO, SEM VALIDADE[/bold][/color]
+
+         [color=#d4af37][bold]PELA JUSTIÇA, PELA ORDEM, PELA NANOTRASEN.[/bold][/color]
+
+                            [color=#1b487e][head=3][bold]GLÓRIA A NANOTRASEN![/bold][/head][/color]
+
+                                      [italic]Espaço para Carimbos[/italic]
 doc-text-printer-RequestModernization =
-    ⠀[color=#1b487e]███░███░░░░██░░░░[/color]
-    ⠀[color=#1b487e]░██░████░░░██░░░░[/color]      [head=3]Documento em Branco[/head]
-    ⠀[color=#1b487e]░░█░██░██░░██░█░░[/color]               [head=3]NanoTrasen[/head]
-    ⠀[color=#1b487e]░░░░██░░██░██░██░[/color] [bold]Estação XX-000 COD-NIO[/bold]
-    ⠀[color=#1b487e]░░░░██░░░████░███[/color]
-    =============================================
-                SOLICITAÇÃO DE MODERNIZAÇÃO
-    =============================================
-    Tempo desde o início do turno:
-    Redator do documento:
-    Posição do redator:
+[color=#1b487e]════════════════════════════NANOTRASEN══
 
-    Eu, (NOME), no cargo de (nome completo do cargo), solicito a modernização dos dispositivos em (nome do departamento ou objeto) devido a (razão do pedido).
-    Lista de modernizações:
+ █▄ █ ▀█▀    [head=3][color=#d4af37]DIVISÃO DE LOGÍSTICA[/color][/head]
+ █ ▀█  █     [italic]Estação [form][/italic]
+             Emitido: [form].[form].3026
+[/color]
+[color=#1b487e]════════════════════════════════════════[/color]
 
-    =============================================
-                                ⠀[italic]Espaço para carimbos[/italic]
+[head=2][color=#d4af37]SOLICITAÇÃO DE MODERNIZAÇÃO[/color][/head]
 
+[bold]Tempo desde o início do turno:[/bold] [form]
+[bold]Redator do documento:[/bold] [signature]
+
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+                                      [head=3][color=#d4af37]MODERNIZAÇÃO[/color][/head]
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+Eu, [form], no cargo de [form], solicito a modernização dos dispositivos em [form] (nome do departamento ou objeto) devido a [form] (razão do pedido).
+
+[bold]Lista de modernizações:[/bold]
+[form]
+
+[color=#8a1c1c][bold]SEM ASSINATURA E CARIMBO, SEM VALIDADE[/bold][/color]
+
+         [color=#d4af37][bold]PELA JUSTIÇA, PELA ORDEM, PELA NANOTRASEN.[/bold][/color]
+
+                            [color=#1b487e][head=3][bold]GLÓRIA A NANOTRASEN![/bold][/head][/color]
+
+                                      [italic]Espaço para Carimbos[/italic]
 doc-text-printer-ComplaintViolationLaborRules =
-    ⠀[color=#1b487e]███░███░░░░██░░░░[/color]
-    ⠀[color=#1b487e]░██░████░░░██░░░░[/color]      [head=3]Documento em Branco[/head]
-    ⠀[color=#1b487e]░░█░██░██░░██░█░░[/color]               [head=3]NanoTrasen[/head]
-    ⠀[color=#1b487e]░░░░██░░██░██░██░[/color] [bold]Estação XX-000 PD-JUR[/bold]
-    ⠀[color=#1b487e]░░░░██░░░████░███[/color]
-    =============================================
-            RECLAMAÇÃO DE VIOLAÇÃO DAS NORMAS DE TRABALHO
-    =============================================
-    Tempo desde o início do turno:
-    Redator do documento:
-    Posição do redator:
+[color=#1b487e]════════════════════════════NANOTRASEN══
 
-    Eu, (NOME), no cargo de (nome completo do cargo), considero que durante o trabalho no departamento (nome do departamento) foram cometidas as seguintes violações:
+ █▄ █ ▀█▀    [head=3][color=#d4af37]RECURSOS HUMANOS[/color][/head]
+ █ ▀█  █     [italic]Estação [form][/italic]
+             Emitido: [form].[form].3026
+[/color]
+[color=#1b487e]════════════════════════════════════════[/color]
 
-    Solicito uma investigação interna desses fatos de violação.
-    =============================================
-                                ⠀[italic]Espaço para carimbos[/italic]
+[head=2][color=#d4af37]RECLAMAÇÃO DE VIOLAÇÃO DAS NORMAS DE TRABALHO[/color][/head]
+
+[bold]Tempo desde o início do turno:[/bold] [form]
+[bold]Redator do documento:[/bold] [signature]
+
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+                                          [head=3][color=#d4af37]RECLAMAÇÃO[/color][/head]
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+Eu, [form], no cargo de [form], considero que durante o trabalho no departamento [form] foram cometidas as seguintes violações:
+[form]
+
+Solicito uma investigação interna desses fatos de violação.
+
+[color=#8a1c1c][bold]SEM ASSINATURA E CARIMBO, SEM VALIDADE[/bold][/color]
+
+         [color=#d4af37][bold]PELA JUSTIÇA, PELA ORDEM, PELA NANOTRASEN.[/bold][/color]
+
+                            [color=#1b487e][head=3][bold]GLÓRIA A NANOTRASEN![/bold][/head][/color]
+
+                                      [italic]Espaço para Carimbos[/italic]
 doc-text-printer-ComplaintOffense =
-    ⠀[color=#1b487e]███░███░░░░██░░░░[/color]
-    ⠀[color=#1b487e]░██░████░░░██░░░░[/color]      [head=3]Documento em Branco[/head]
-    ⠀[color=#1b487e]░░█░██░██░░██░█░░[/color]               [head=3]NanoTrasen[/head]
-    ⠀[color=#1b487e]░░░░██░░██░██░██░[/color] [bold]Estação XX-000 PD-SB[/bold]
-    ⠀[color=#1b487e]░░░░██░░░████░███[/color]
-    =============================================
-                        RECLAMAÇÃO DE INFRAÇÃO
-    =============================================
-    Tempo desde o início do turno:
-    Redator do documento:
-    Posição do redator:
-
-    Eu, (NOME), no cargo de (nome completo do cargo), acredito que (NOME), no cargo de (nome completo do cargo), violou o Código Corporativo porque (razão).
-    O que aconteceu do meu ponto de vista:
-
-    =============================================
-                                ⠀[italic]Espaço para carimbos[/italic]
 
 doc-text-printer-PermissionEquipment =
-    ⠀[color=#1b487e]███░███░░░░██░░░░[/color]
-    ⠀[color=#1b487e]░██░████░░░██░░░░[/color]      [head=3]Documento em Branco[/head]
-    ⠀[color=#1b487e]░░█░██░██░░██░█░░[/color]               [head=3]NanoTrasen[/head]
-    ⠀[color=#1b487e]░░░░██░░██░██░██░[/color] [bold]Estação XX-000 COD[/bold]
-    ⠀[color=#1b487e]░░░░██░░░████░███[/color]
-    =============================================
-        PERMISSÃO PARA UTILIZAR EQUIPAMENTO
-    =============================================
-    Tempo desde o início do turno:
-    Redator do documento:
-    Posição do redator:
+[color=#1b487e]════════════════════════════NANOTRASEN══
 
-    Eu, (NOME), no cargo de chefe do departamento (nome completo do departamento), redatorizo o uso do seguinte equipamento de trabalho por (NOME) no cargo de (nome completo do cargo):
+ █▄ █ ▀█▀    [head=3][color=#d4af37]DIVISÃO DE LOGÍSTICA[/color][/head]
+ █ ▀█  █     [italic]Estação [form][/italic]
+             Emitido: [form].[form].3026
+[/color]
+[color=#1b487e]════════════════════════════════════════[/color]
 
-    =============================================
-                                ⠀[italic]Espaço para carimbos[/italic]
+[head=2][color=#d4af37]PERMISSÃO PARA UTILIZAR EQUIPAMENTO[/color][/head]
 
+[bold]Tempo desde o início do turno:[/bold] [form]
+[bold]Redator do documento:[/bold] [signature]
+
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+                             [head=3][color=#d4af37]USO DE EQUIPAMENTO[/color][/head]
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+Eu, [form], no cargo de chefe do departamento [form], redatorizo o uso do seguinte equipamento de trabalho por [form] no cargo de [form]:
+[form]
+
+[color=#8a1c1c][bold]SEM ASSINATURA E CARIMBO, SEM VALIDADE[/bold][/color]
+
+         [color=#d4af37][bold]PELA JUSTIÇA, PELA ORDEM, PELA NANOTRASEN.[/bold][/color]
+
+                            [color=#1b487e][head=3][bold]GLÓRIA A NANOTRASEN![/bold][/head][/color]
+
+                                      [italic]Espaço para Carimbos[/italic]
 doc-text-printer-PermissionToTravelInCaseOfThreat=
-    ⠀[color=#1b487e]███░███░░░░██░░░░[/color]
-    ⠀[color=#1b487e]░██░████░░░██░░░░[/color]      [head=3]Documento em Branco[/head]
-    ⠀[color=#1b487e]░░█░██░██░░██░█░░[/color]               [head=3]NanoTrasen[/head]
-    ⠀[color=#1b487e]░░░░██░░██░██░██░[/color] [bold]Estação XX-000 COD[/bold]
-    ⠀[color=#1b487e]░░░░██░░░████░███[/color]
-    =============================================
-            PERMISSÃO PARA VIAJAR EM CASO DE AMEAÇA
-    =============================================
-    Tempo desde o início do turno:
-    Redator do documento:
-    Posição do redator:
+⠀[color=#1b487e]════════════════════════════NANOTRASEN══
 
-    Eu, (NOME), no cargo de (nome completo do cargo), redatorizo o funcionário (NOME) no cargo de (nome completo do cargo) a se movimentar pela estação para cumprir suas responsabilidades de trabalho.
-    Níveis de códigos de ameaça nos quais esta permissão é válida:
+ █▄ █ ▀█▀    [head=3][color=#d4af37]COMANDO DA ESTAÇÃO[/color][/head]
+ █ ▀█  █     [italic]Estação [form][/italic]
+             Emitido: [form].[form].3026
+[/color]
+[color=#1b487e]════════════════════════════════════════[/color]
 
-    Partes permitidas da estação para a localização do funcionário (pode especificar toda a estação):
+[head=2][color=#d4af37]PERMISSÃO PARA VIAJAR EM CASO DE AMEAÇA[/color][/head]
 
-    =============================================
-                                ⠀[italic]Espaço para carimbos[/italic]
+[bold]Tempo desde o início do turno:[/bold] [form]
+[bold]Redator do documento:[/bold] [signature]
+
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+                                                [head=3][color=#d4af37]VIAGEM[/color][/head]
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+Eu, [form], no cargo de [form], redatorizo o funcionário [form] no cargo de [form] a se movimentar pela estação para cumprir suas responsabilidades de trabalho.
+
+[bold]Níveis de códigos de ameaça nos quais esta permissão é válida:[/bold] [form]
+
+[bold]Partes permitidas da estação para a localização do funcionário (pode especificar toda a estação):[/bold] [form]
+
+[color=#8a1c1c][bold]SEM ASSINATURA E CARIMBO, SEM VALIDADE[/bold][/color]
+
+         [color=#d4af37][bold]PELA JUSTIÇA, PELA ORDEM, PELA NANOTRASEN.[/bold][/color]
+
+                            [color=#1b487e][head=3][bold]GLÓRIA A NANOTRASEN![/bold][/head][/color]
+
+                                      [italic]Espaço para Carimbos[/italic]
 doc-text-printer-SearchPermission =
-    ⠀[color=#1b487e]███░███░░░░██░░░░[/color]
-    ⠀[color=#1b487e]░██░████░░░██░░░░[/color]      [head=3]Documento em Branco[/head]
-    ⠀[color=#1b487e]░░█░██░██░░██░█░░[/color]               [head=3]NanoTrasen[/head]
-    ⠀[color=#1b487e]░░░░██░░██░██░██░[/color] [bold]Estação XX-000 SB[/bold]
-    ⠀[color=#1b487e]░░░░██░░░████░███[/color]
-    =============================================
-                        PERMISSÃO DE BUSCA
-    =============================================
-    Tempo desde o início do turno:
-    Redator do documento:
-    Posição do redator:
+[color=#1b487e]════════════════════════════NANOTRASEN══
 
-    Eu, (NOME), no cargo de (nome completo do cargo), redatorizo a realização de uma busca em (NOME)/(nome completo do departamento).
-    Razão para a busca:
+ █▄ █ ▀█▀    [head=3][color=#d4af37]DIVISÃO DE SEGURANÇA[/color][/head]
+ █ ▀█  █     [italic]Estação [form][/italic]
+             Emitido: [form].[form].3026
+[/color]
+[color=#1b487e]════════════════════════════════════════[/color]
 
-    =============================================
-                                ⠀[italic]Espaço para carimbos[/italic]
+[head=2][color=#d4af37]PERMISSÃO DE BUSCA[/color][/head]
 
+[bold]Tempo desde o início do turno:[/bold] [form]
+[bold]Redator do documento:[/bold] [signature]
+
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+                                        [head=3][color=#d4af37]AUTORIZAÇÃO[/color][/head]
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+Eu, [form], no cargo de [form], redatorizo a realização de uma busca em [form] (nome da pessoa ou do departamento).
+
+[bold]Razão para a busca:[/bold] [form]
+
+[color=#8a1c1c][bold]SEM ASSINATURA E CARIMBO, SEM VALIDADE[/bold][/color]
+
+         [color=#d4af37][bold]PELA JUSTIÇA, PELA ORDEM, PELA NANOTRASEN.[/bold][/color]
+
+                            [color=#1b487e][head=3][bold]GLÓRIA A NANOTRASEN![/bold][/head][/color]
+
+                                      [italic]Espaço para Carimbos[/italic]
 doc-text-printer-PermissionToCarryWeapons =
-    ⠀[color=#1b487e]███░███░░░░██░░░░[/color]
-    ⠀[color=#1b487e]░██░████░░░██░░░░[/color]      [head=3]Documento em Branco[/head]
-    ⠀[color=#1b487e]░░█░██░██░░██░█░░[/color]               [head=3]NanoTrasen[/head]
-    ⠀[color=#1b487e]░░░░██░░██░██░██░[/color] [bold]Estação XX-000 SB[/bold]
-    ⠀[color=#1b487e]░░░░██░░░████░███[/color]
-    =============================================
-                    PERMISSÃO PARA PORTAR ARMAS
-    =============================================
-    Tempo desde o início do turno:
-    Redator do documento:
-    Posição do redator:
+[color=#1b487e]════════════════════════════NANOTRASEN══
 
-    Eu, (NOME), no cargo de (nome completo do cargo), redatorizo (NOME), no cargo de (nome completo do cargo), a portar armas até que seja usado para o propósito pretendido. Em caso de violação, a permissão será anulada, e a Segurança confiscará a arma.
-    Arma e tipo de munição:
+ █▄ █ ▀█▀    [head=3][color=#d4af37]DIVISÃO DE SEGURANÇA[/color][/head]
+ █ ▀█  █     [italic]Estação [form][/italic]
+             Emitido: [form].[form].3026
+[/color]
+[color=#1b487e]════════════════════════════════════════[/color]
 
-    Como obter a arma e a munição:
+[head=2][color=#d4af37]PERMISSÃO PARA PORTAR ARMAS[/color][/head]
 
-    Razão para a emissão da permissão:
+[bold]Tempo desde o início do turno:[/bold] [form]
+[bold]Redator do documento:[/bold] [signature]
 
-    =============================================
-                                ⠀[italic]Espaço para carimbos[/italic]
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+                                   [head=3][color=#d4af37]PORTE DE ARMAS[/color][/head]
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+Eu, [form], no cargo de [form], redatorizo [form], no cargo de [form], a portar armas até que seja usado para o propósito pretendido. Em caso de violação, a permissão será anulada, e a Segurança confiscará a arma.
 
+[bold]Arma e tipo de munição:[/bold] [form]
+
+[bold]Como obter a arma e a munição:[/bold] [form]
+
+[bold]Razão para a emissão da permissão:[/bold] [form]
+
+[color=#8a1c1c][bold]SEM ASSINATURA E CARIMBO, SEM VALIDADE[/bold][/color]
+
+         [color=#d4af37][bold]PELA JUSTIÇA, PELA ORDEM, PELA NANOTRASEN.[/bold][/color]
+
+                            [color=#1b487e][head=3][bold]GLÓRIA A NANOTRASEN![/bold][/head][/color]
+
+                                      [italic]Espaço para Carimbos[/italic]
 doc-text-printer-PrescriptionDrugAuthorization =
-    ⠀[color=#1b487e]███░███░░░░██░░░░[/color]
-    ⠀[color=#1b487e]░██░████░░░██░░░░[/color]      [head=3]Documento em Branco[/head]
-    ⠀[color=#1b487e]░░█░██░██░░██░█░░[/color]               [head=3]NanoTrasen[/head]
-    ⠀[color=#1b487e]░░░░██░░██░██░██░[/color] [bold]Estação XX-000 MED-SB[/bold]
-    ⠀[color=#1b487e]░░░░██░░░████░███[/color]
-    =============================================
-                AUTORIZAÇÃO DE MEDICAMENTO CONTROLADO
-    =============================================
-    Tempo desde o início do turno:
-    Redator do documento:
-    Posição do redator:
+⠀[color=#1b487e]════════════════════════════NANOTRASEN══
 
-    Eu, (NOME), no cargo de (nome completo do cargo), redatorizo o armazenamento e uso do medicamento controlado ou substância narcótica "(nome completo da substância)" para o paciente (NOME), no cargo de (nome completo do cargo).
-    Diagnóstico estabelecido:
+ █▄ █ ▀█▀    [head=3][color=#d4af37]DEPARTAMENTO MÉDICO[/color][/head]
+ █ ▀█  █     [italic]Estação [form][/italic]
+             Emitido: [form].[form].3026
+[/color]
+[color=#1b487e]════════════════════════════════════════[/color]
 
-    Razão para emissão do medicamento:
+[head=2][color=#d4af37]AUTORIZAÇÃO DE MEDICAMENTO CONTROLADO[/color][/head]
 
-    =============================================
-                                ⠀[italic]Espaço para carimbos[/italic]
+[bold]Tempo desde o início do turno:[/bold] [form]
+[bold]Redator do documento:[/bold] [signature]
+
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+       [head=3][color=#d4af37]                         AUTORIZAÇÃO[/color][/head]
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+Eu, [form], no cargo de [form], redatorizo o armazenamento e uso do medicamento controlado ou substância narcótica "[form]" para o paciente [form], no cargo de [form].
+
+[bold]Diagnóstico estabelecido:[/bold] [form]
+
+[bold]Razão para emissão do medicamento:[/bold] [form]
+
+[color=#8a1c1c][bold]SEM ASSINATURA E CARIMBO, SEM VALIDADE[/bold][/color]
+
+         [color=#d4af37][bold]  PELA JUSTIÇA, PELA ORDEM, PELA NANOTRASEN.[/bold][/color]
+
+                     [color=#1b487e][head=3][bold]      GLÓRIA A NANOTRASEN![/bold][/head][/color]
+
+                                    [italic]  Espaço para Carimbos[/italic]
 doc-text-printer-PermissionDisposeBody =
-    ⠀[color=#1b487e]███░███░░░░██░░░░[/color]
-    ⠀[color=#1b487e]░██░████░░░██░░░░[/color]      [head=3]Documento em Branco[/head]
-    ⠀[color=#1b487e]░░█░██░██░░██░█░░[/color]               [head=3]NanoTrasen[/head]
-    ⠀[color=#1b487e]░░░░██░░██░██░██░[/color] [bold]Estação XX-000 MED[/bold]
-    ⠀[color=#1b487e]░░░░██░░░████░███[/color]
-    =============================================
-                    PERMISSÃO PARA DESCARTE DE CORPO
-    =============================================
-    Tempo desde o início do turno:
-    Redator do documento:
-    Posição do redator:
+[color=#1b487e]════════════════════════════NANOTRASEN══
 
-    Eu, (NOME), no cargo de (nome completo do cargo), redatorizo o descarte do corpo de (NOME), no cargo de (nome completo do cargo), devido à impossibilidade de reanimação e clonagem.
-    Método de descarte:
+ █▄ █ ▀█▀    [head=3][color=#d4af37]DEPARTAMENTO MÉDICO[/color][/head]
+ █ ▀█  █     [italic]Estação [form][/italic]
+             Emitido: [form].[form].3026
+[/color]
+[color=#1b487e]════════════════════════════════════════[/color]
 
-    =============================================
-                                ⠀[italic]Espaço para carimbos[/italic]
+[head=2][color=#d4af37]PERMISSÃO PARA DESCARTE DE CORPO[/color][/head]
 
+[bold]Tempo desde o início do turno:[/bold] [form]
+[bold]Redator do documento:[/bold] [signature]
+
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+                                            [head=3][color=#d4af37]DESCARTE[/color][/head]
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+Eu, [form], no cargo de [form], redatorizo o descarte do corpo de [form], no cargo de [form], devido à impossibilidade de reanimação e clonagem.
+
+[bold]Método de descarte:[/bold] [form]
+
+[color=#8a1c1c][bold]SEM ASSINATURA E CARIMBO, SEM VALIDADE[/bold][/color]
+
+         [color=#d4af37][bold]PELA JUSTIÇA, PELA ORDEM, PELA NANOTRASEN.[/bold][/color]
+
+                            [color=#1b487e][head=3][bold]GLÓRIA A NANOTRASEN![/bold][/head][/color]
+
+                                      [italic]Espaço para Carimbos[/italic]
 doc-text-printer-ConstructionPermit =
-    ⠀[color=#1b487e]███░███░░░░██░░░░[/color]
-    ⠀[color=#1b487e]░██░████░░░██░░░░[/color]      [head=3]Documento em Branco[/head]
-    ⠀[color=#1b487e]░░█░██░██░░██░█░░[/color]               [head=3]NanoTrasen[/head]
-    ⠀[color=#1b487e]░░░░██░░██░██░██░[/color] [bold]Estação XX-000 ENG-COD[/bold]
-    ⠀[color=#1b487e]░░░░██░░░████░███[/color]
-    =============================================
-                        PERMISSÃO PARA CONSTRUÇÃO
-    =============================================
-    Tempo desde o início do turno:
-    Redator do documento:
-    Posição do redator:
+[color=#1b487e]════════════════════════════NANOTRASEN══
 
-    Eu, (NOME), no cargo de (nome completo do cargo), redatorizo a realização de (NOME), no cargo de (nome completo do cargo), para remodelar parte da estação (indicar o local da remodelação) devido a (razão da remodelação).
-    Volume de remodelação aprovado:
+ █▄ █ ▀█▀    [head=3][color=#d4af37]DIVISÃO DE ENGENHARIA[/color][/head]
+ █ ▀█  █     [italic]Estação [form][/italic]
+             Emitido: [form].[form].3026
+[/color]
+[color=#1b487e]════════════════════════════════════════[/color]
 
-    =============================================
-                                ⠀[italic]Espaço para carimbos[/italic]
+[head=2][color=#d4af37]PERMISSÃO PARA CONSTRUÇÃO[/color][/head]
 
+[bold]Tempo desde o início do turno:[/bold] [form]
+[bold]Redator do documento:[/bold] [signature]
+
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+                                        [head=3][color=#d4af37]REMODELAÇÃO[/color][/head]
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+Eu, [form], no cargo de [form], redatorizo a realização de [form], no cargo de [form], para remodelar parte da estação [form](indicar o local da remodelação) devido a [form] (razão da remodelação).
+
+[bold]Volume de remodelação aprovado:[/bold] [form]
+
+[color=#8a1c1c][bold]SEM ASSINATURA E CARIMBO, SEM VALIDADE[/bold][/color]
+
+         [color=#d4af37][bold]PELA JUSTIÇA, PELA ORDEM, PELA NANOTRASEN.[/bold][/color]
+
+                            [color=#1b487e][head=3][bold]GLÓRIA A NANOTRASEN![/bold][/head][/color]
+
+                                      [italic]Espaço para Carimbos[/italic]
 doc-text-printer-PermissionToExtendMarriage =
-    ⠀[color=#1b487e]███░███░░░░██░░░░[/color]
-    ⠀[color=#1b487e]░██░████░░░██░░░░[/color]      [head=3]Documento em Branco[/head]
-    ⠀[color=#1b487e]░░█░██░██░░██░█░░[/color]               [head=3]NanoTrasen[/head]
-    ⠀[color=#1b487e]░░░░██░░██░██░██░[/color] [bold]Estação XX-000 PD-SRV[/bold]
-    ⠀[color=#1b487e]░░░░██░░░████░███[/color]
-    =============================================
-                PERMISSÃO PARA AMPLIAÇÃO DO CASAMENTO
-    =============================================
-    Tempo desde o início do turno:
-    Redator do documento:
-    Posição do redator:
+[color=#1b487e]════════════════════════════NANOTRASEN══
 
-    Eu, (NOME), no cargo de (nome completo do cargo), dou minha permissão para a expansão do casamento celebrado entre:
-    (NOME), no cargo de (nome completo do cargo)
-    ⠀...
-    (NOME), no cargo de (nome completo do cargo)
-    ⠀Para entrar neste novo casamento:
-    (NOME), no cargo de (nome completo do cargo)
-    ⠀...
-    (NOME), no cargo de (nome completo do cargo)
-    =============================================
-                                ⠀[italic]Espaço para carimbos[/italic]
+ █▄ █ ▀█▀    [head=3][color=#d4af37]REGISTRO CIVIL[/color][/head]
+ █ ▀█  █     [italic]Estação [form][/italic]
+             Emitido: [form].[form].3026
+[/color]
+[color=#1b487e]════════════════════════════════════════[/color]
+
+[head=2][color=#d4af37]PERMISSÃO PARA AMPLIAÇÃO DO CASAMENTO[/color][/head]
+
+[bold]Tempo desde o início do turno:[/bold] [form]
+[bold]Redator do documento:[/bold] [signature]
+
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+                                            [head=3][color=#d4af37]EXPANSÃO[/color][/head]
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+Eu, [form], no cargo de [form], dou minha permissão para a expansão do casamento celebrado entre:
+
+   [bold]Cônjuge:[/bold] [form], no cargo de [form]
+   [bold]Cônjuge:[/bold] [form], no cargo de [form]
+
+Para entrar neste novo casamento:
+
+   [bold]Novo cônjuge:[/bold] [form], no cargo de [form]
+   [bold]Novo cônjuge:[/bold] [form], no cargo de [form]
+
+[color=#8a1c1c][bold]SEM ASSINATURA E CARIMBO, SEM VALIDADE[/bold][/color]
+
+         [color=#d4af37][bold]PELA JUSTIÇA, PELA ORDEM, PELA NANOTRASEN.[/bold][/color]
+
+                            [color=#1b487e][head=3][bold]GLÓRIA A NANOTRASEN![/bold][/head][/color]
+
+                                      [italic]Espaço para Carimbos[/italic]
 doc-text-printer-OrderDismissal =
-    ⠀[color=#1b487e]███░███░░░░██░░░░[/color]
-    ⠀[color=#1b487e]░██░████░░░██░░░░[/color]      [head=3]Documento em Branco[/head]
-    ⠀[color=#1b487e]░░█░██░██░░██░█░░[/color]               [head=3]NanoTrasen[/head]
-    ⠀[color=#1b487e]░░░░██░░██░██░██░[/color] [bold]Estação XX-000 COM[/bold]
-    ⠀[color=#1b487e]░░░░██░░░████░███[/color]
-    =============================================
-                            ORDEM DE DEMISSÃO
-    =============================================
-    Tempo desde o início do turno:
-    Redator do documento:
-    Posição do redator:
+[color=#1b487e]════════════════════════════NANOTRASEN══
 
-    Eu, (NOME), no cargo de (nome completo do cargo), ordeno a demissão do funcionário (NOME) do departamento (nome do departamento) no cargo de (nome completo do cargo do demitido) por motivo de:
+ █▄ █ ▀█▀    [head=3][color=#d4af37]COMANDO DA ESTAÇÃO[/color][/head]
+ █ ▀█  █     [italic]Estação [form][/italic]
+             Emitido: [form].[form].3026
+[/color]
+[color=#1b487e]════════════════════════════════════════[/color]
 
-    =============================================
-                                ⠀[italic]Espaço para carimbos[/italic]
+[head=2][color=#d4af37]ORDEM DE DEMISSÃO[/color][/head]
 
+[bold]Tempo desde o início do turno:[/bold] [form]
+[bold]Redator do documento:[/bold] [signature]
+
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+                                      [head=3][color=#d4af37]DESLIGAMENTO[/color][/head]
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+Eu, [form], no cargo de [form], ordeno a demissão do funcionário [form] do departamento [form] no cargo de [form] por motivo de:
+[form]
+
+[color=#8a1c1c][bold]SEM ASSINATURA E CARIMBO, SEM VALIDADE[/bold][/color]
+
+         [color=#d4af37][bold]PELA JUSTIÇA, PELA ORDEM, PELA NANOTRASEN.[/bold][/color]
+
+                            [color=#1b487e][head=3][bold]GLÓRIA A NANOTRASEN![/bold][/head][/color]
+
+                                      [italic]Espaço para Carimbos[/italic]
 doc-text-printer-OrderDeprivationAccess =
-    ⠀[color=#1b487e]███░███░░░░██░░░░[/color]
-    ⠀[color=#1b487e]░██░████░░░██░░░░[/color]      [head=3]Documento em Branco[/head]
-    ⠀[color=#1b487e]░░█░██░██░░██░█░░[/color]               [head=3]NanoTrasen[/head]
-    ⠀[color=#1b487e]░░░░██░░██░██░██░[/color] [bold]Estação XX-000 COM[/bold]
-    ⠀[color=#1b487e]░░░░██░░░████░███[/color]
-    =============================================
-                        ORDEM DE PRIVAÇÃO DE ACESSO
-    =============================================
-    Tempo desde o início do turno:
-    Redator do documento:
-    Posição do redator:
+[color=#1b487e]════════════════════════════NANOTRASEN══
 
-    Eu, (NOME), no cargo de (nome completo do cargo), ordeno a retirada dos seguintes acessos do funcionário (NOME) no cargo de (nome completo do cargo):
+ █▄ █ ▀█▀    [head=3][color=#d4af37]COMANDO DA ESTAÇÃO[/color][/head]
+ █ ▀█  █     [italic]Estação [form][/italic]
+             Emitido: [form].[form].3026
+[/color]
+[color=#1b487e]════════════════════════════════════════[/color]
 
-    =============================================
-                                ⠀[italic]Espaço para carimbos[/italic]
+[head=2][color=#d4af37]ORDEM DE PRIVAÇÃO DE ACESSO[/color][/head]
 
+[bold]Tempo desde o início do turno:[/bold] [form]
+[bold]Redator do documento:[/bold] [signature]
+
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+                                           [head=3][color=#d4af37]REVOGAÇÃO[/color][/head]
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+Eu, [form], no cargo de [form], ordeno a retirada dos seguintes acessos do funcionário [form] no cargo de [form]:
+[form]
+
+[color=#8a1c1c][bold]SEM ASSINATURA E CARIMBO, SEM VALIDADE[/bold][/color]
+
+         [color=#d4af37][bold]PELA JUSTIÇA, PELA ORDEM, PELA NANOTRASEN.[/bold][/color]
+
+                            [color=#1b487e][head=3][bold]GLÓRIA A NANOTRASEN![/bold][/head][/color]
+
+                                      [italic]Espaço para Carimbos[/italic]
 doc-text-printer-OrderEncouragement =
-    ⠀[color=#1b487e]███░███░░░░██░░░░[/color]
-    ⠀[color=#1b487e]░██░████░░░██░░░░[/color]      [head=3]Documento em Branco[/head]
-    ⠀[color=#1b487e]░░█░██░██░░██░█░░[/color]               [head=3]NanoTrasen[/head]
-    ⠀[color=#1b487e]░░░░██░░██░██░██░[/color] [bold]Estação XX-000 COM[/bold]
-    ⠀[color=#1b487e]░░░░██░░░████░███[/color]
-    =============================================
-                            ORDEM DE ELOGIO
-    =============================================
-    Tempo desde o início do turno:
-    Redator do documento:
-    Posição do redator:
+[color=#1b487e]════════════════════════════NANOTRASEN══
 
-    Eu, (NOME), no cargo de (nome completo do cargo), concedo a (NOME) no cargo de (nome completo do cargo do homenageado) uma medalha/diploma/lembrança/prêmio no valor de (valor do prêmio) pelos seguintes méritos:
+ █▄ █ ▀█▀    [head=3][color=#d4af37]HONRARIAS E MÉRITOS[/color][/head]
+ █ ▀█  █     [italic]Estação [form][/italic]
+             Emitido: [form].[form].3026
+[/color]
+[color=#1b487e]════════════════════════════════════════[/color]
 
-    =============================================
-                                ⠀[italic]Espaço para carimbos[/italic]
+[head=2][color=#d4af37]ORDEM DE ELOGIO[/color][/head]
+
+[bold]Tempo desde o início do turno:[/bold] [form]
+[bold]Redator do documento:[/bold] [signature]
+
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+                                           [head=3][color=#d4af37]HOMENAGEM[/color][/head]
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+Eu, [form], no cargo de [form], concedo a [form] no cargo de [form] uma homenagem:
+   [check] Medalha
+   [check] Diploma
+   [check] Lembrança
+   [check] Prêmio
+
+[bold]Valor do prêmio:[/bold] [form]
+
+[bold]Pelos seguintes méritos:[/bold]
+[form]
+
+[color=#8a1c1c][bold]SEM ASSINATURA E CARIMBO, SEM VALIDADE[/bold][/color]
+
+         [color=#d4af37][bold]PELA JUSTIÇA, PELA ORDEM, PELA NANOTRASEN.[/bold][/color]
+
+                            [color=#1b487e][head=3][bold]GLÓRIA A NANOTRASEN![/bold][/head][/color]
+
+                                      [italic]Espaço para Carimbos[/italic]
 doc-text-printer-OrderParolePrisoner =
-    ⠀[color=#1b487e]███░███░░░░██░░░░[/color]
-    ⠀[color=#1b487e]░██░████░░░██░░░░[/color]      [head=3]Documento em Branco[/head]
-    ⠀[color=#1b487e]░░█░██░██░░██░█░░[/color]               [head=3]NanoTrasen[/head]
-    ⠀[color=#1b487e]░░░░██░░██░██░██░[/color] [bold]Estação XX-000 COM[/bold]
-    ⠀[color=#1b487e]░░░░██░░░████░███[/color]
-    =============================================
-                    ORDEM DE LIBERDADE CONDICIONAL DE PRISIONEIRO
-    =============================================
-    Tempo desde o início do turno:
-    Redator do documento:
-    Posição do redator:
+[color=#1b487e]════════════════════════════NANOTRASEN══
 
-    Eu, (NOME), no cargo de (nome completo do cargo), redatorizo a libertação condicional do prisioneiro (NOME) para o brig/permabrig. Após a concessão da liberdade condicional, será atribuída ao prisioneiro uma profissão civil com trabalho obrigatório até o final do turno.
-    Profissão atribuída:
+ █▄ █ ▀█▀    [head=3][color=#d4af37]COMANDO DA ESTAÇÃO[/color][/head]
+ █ ▀█  █     [italic]Estação [form][/italic]
+             Emitido: [form].[form].3026
+[/color]
+[color=#1b487e]════════════════════════════════════════[/color]
 
-    =============================================
-                                ⠀[italic]Espaço para carimbos[/italic]
+[head=2][color=#d4af37]ORDEM DE LIBERDADE CONDICIONAL DE PRISIONEIRO[/color][/head]
 
+[bold]Tempo desde o início do turno:[/bold] [form]
+[bold]Redator do documento:[/bold] [signature]
+
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+                                           [head=3][color=#d4af37]LIBERAÇÃO[/color][/head]
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+Eu, [form], no cargo de [form], redatorizo a libertação condicional do prisioneiro [form] para o:
+   [check] Brig
+   [check] Permabrig
+
+Após a concessão da liberdade condicional, será atribuída ao prisioneiro uma profissão civil com trabalho obrigatório até o final do turno.
+
+[bold]Profissão atribuída:[/bold] [form]
+
+[color=#8a1c1c][bold]SEM ASSINATURA E CARIMBO, SEM VALIDADE[/bold][/color]
+
+         [color=#d4af37][bold]PELA JUSTIÇA, PELA ORDEM, PELA NANOTRASEN.[/bold][/color]
+
+                            [color=#1b487e][head=3][bold]GLÓRIA A NANOTRASEN![/bold][/head][/color]
+
+                                      [italic]Espaço para Carimbos[/italic]
 doc-text-printer-OrderRecognizingSentienceCreature =
-    ⠀[color=#1b487e]███░███░░░░██░░░░[/color]
-    ⠀[color=#1b487e]░██░████░░░██░░░░[/color]      [head=3]Documento em Branco[/head]
-    ⠀[color=#1b487e]░░█░██░██░░██░█░░[/color]               [head=3]NanoTrasen[/head]
-    ⠀[color=#1b487e]░░░░██░░██░██░██░[/color] [bold]Estação XX-000 NIO[/bold]
-    ⠀[color=#1b487e]░░░░██░░░████░███[/color]
-    =============================================
-            ORDEM DE RECONHECIMENTO DE INTELIGÊNCIA DE CRIATURA
-    =============================================
-    Tempo desde o início do turno:
-    Redator do documento:
-    Posição do redator:
+[color=#1b487e]════════════════════════════NANOTRASEN══
 
-    Durante os testes, foram identificados sinais de atividade cerebral superior e inteligência desta criatura, sua capacidade de pensar, aprender, compreender moralidade e ter senso comum em suas ações. Assim, eu, (NOME), no cargo de (nome completo do cargo), com base nos princípios de igualdade de direitos de todas as criaturas inteligentes, conforme estabelecido pela ORPS, reconheço esta criatura como inteligente.
-    Aparência da criatura:
+ █▄ █ ▀█▀    [head=3][color=#d4af37]COMANDO DA ESTAÇÃO[/color][/head]
+ █ ▀█  █     [italic]Estação [form][/italic]
+             Emitido: [form].[form].3026
+[/color]
+[color=#1b487e]════════════════════════════════════════[/color]
 
-    Nome completo atribuído à criatura:
+[head=2][color=#d4af37]ORDEM DE RECONHECIMENTO DE INTELIGÊNCIA DE CRIATURA[/color][/head]
 
-    A criatura é aceita/não aceita como passageira na estação até o final do turno.
-    =============================================
-                                ⠀[italic]Espaço para carimbos[/italic]
+[bold]Tempo desde o início do turno:[/bold] [form]
+[bold]Redator do documento:[/bold] [signature]
 
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+                                   [head=3][color=#d4af37]RECONHECIMENTO[/color][/head]
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+Durante os testes, foram identificados sinais de atividade cerebral superior e inteligência desta criatura, sua capacidade de pensar, aprender, compreender moralidade e ter senso comum em suas ações. Assim, eu, [form], no cargo de [form], com base nos princípios de igualdade de direitos de todas as criaturas inteligentes, conforme estabelecido pela ORPS, reconheço esta criatura como inteligente.
+
+[bold]Aparência da criatura:[/bold] [form]
+
+[bold]Nome completo atribuído à criatura:[/bold] [form]
+
+[bold]A criatura é:[/bold]
+   [check] Aceita como passageira na estação até o final do turno
+   [check] Não aceita como passageira na estação
+
+[color=#8a1c1c][bold]SEM ASSINATURA E CARIMBO, SEM VALIDADE[/bold][/color]
+
+         [color=#d4af37][bold]PELA JUSTIÇA, PELA ORDEM, PELA NANOTRASEN.[/bold][/color]
+
+                            [color=#1b487e][head=3][bold]GLÓRIA A NANOTRASEN![/bold][/head][/color]
+
+                                      [italic]Espaço para Carimbos[/italic]
 doc-text-printer-OrderMedicalIntervention =
-    ⠀[color=#1b487e]███░███░░░░██░░░░[/color]
-    ⠀[color=#1b487e]░██░████░░░██░░░░[/color]      [head=3]Documento em Branco[/head]
-    ⠀[color=#1b487e]░░█░██░██░░██░█░░[/color]               [head=3]NanoTrasen[/head]
-    ⠀[color=#1b487e]░░░░██░░██░██░██░[/color] [bold]Estação XX-000 COD-MED[/bold]
-    ⠀[color=#1b487e]░░░░██░░░████░███[/color]
-    =============================================
-    ORDEM DE INTERVENÇÃO MÉDICA
-    =============================================
-    Tempo desde o início do turno:
-    Redator do documento:
-    Posição do redator:
+[color=#1b487e]════════════════════════════NANOTRASEN══
 
-    Eu, (NOME), no cargo de (nome completo do cargo), ordeno a realização de intervenção médica com o objetivo de (descrição do objetivo da intervenção médica), em relação a (NOME) no cargo de (nome completo do cargo).
-    Base para a realização da cirurgia:
+ █▄ █ ▀█▀    [head=3][color=#d4af37]DEPARTAMENTO MÉDICO[/color][/head]
+ █ ▀█  █     [italic]Estação [form][/italic]
+             Emitido: [form].[form].3026
+[/color]
+[color=#1b487e]════════════════════════════════════════[/color]
 
-    =============================================
-                                ⠀[italic]Espaço para carimbos[/italic]
+[head=2][color=#d4af37]ORDEM DE INTERVENÇÃO MÉDICA[/color][/head]
+
+[bold]Tempo desde o início do turno:[/bold] [form]
+[bold]Redator do documento:[/bold] [signature]
+
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+                                      [head=3][color=#d4af37]PROCEDIMENTO[/color][/head]
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+Eu, [form], no cargo de [form], ordeno a realização de intervenção médica com o objetivo de [form], em relação a [form] no cargo de [form].
+
+[bold]Base para a realização da cirurgia:[/bold] [form]
+
+[color=#8a1c1c][bold]SEM ASSINATURA E CARIMBO, SEM VALIDADE[/bold][/color]
+
+         [color=#d4af37][bold]PELA JUSTIÇA, PELA ORDEM, PELA NANOTRASEN.[/bold][/color]
+
+                            [color=#1b487e][head=3][bold]GLÓRIA A NANOTRASEN![/bold][/head][/color]
 doc-text-printer-ProductManufacturingOrder =
-    ⠀[color=#1b487e]███░███░░░░██░░░░[/color]
-    ⠀[color=#1b487e]░██░████░░░██░░░░[/color]      [head=3]Documento em Branco[/head]
-    ⠀[color=#1b487e]░░█░██░██░░██░█░░[/color]               [head=3]NanoTrasen[/head]
-    ⠀[color=#1b487e]░░░░██░░██░██░██░[/color] [bold]Estação XX-000 COD-COD[/bold]
-    ⠀[color=#1b487e]░░░░██░░░████░███[/color]
-    =============================================
-                    ORDEM DE PRODUÇÃO DE PRODUTO
-    =============================================
-    Tempo desde o início do turno:
-    Redator do documento:
-    Posição do redator:
+[color=#1b487e]════════════════════════════NANOTRASEN══
 
-    Eu, (NOME), no cargo de (nome completo do cargo), solicito a produção de produtos pelo departamento (nome do departamento).
-    Lista de produtos necessários:
+ █▄ █ ▀█▀    [head=3][color=#d4af37]DIVISÃO DE LOGÍSTICA[/color][/head]
+ █ ▀█  █     [italic]Estação [form][/italic]
+             Emitido: [form].[form].3026
+[/color]
+[color=#1b487e]════════════════════════════════════════[/color]
 
-    Razão do pedido:
+[head=2][color=#d4af37]ORDEM DE PRODUÇÃO DE PRODUTO[/color][/head]
 
-    =============================================
-                                ⠀[italic]Espaço para carimbos[/italic]
+[bold]Tempo desde o início do turno:[/bold] [form]
+[bold]Redator do documento:[/bold] [signature]
 
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+                                            [head=3][color=#d4af37]PRODUÇÃO[/color][/head]
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+Eu, [form], no cargo de [form], solicito a produção de produtos pelo departamento [form].
+
+[bold]Lista de produtos necessários:[/bold]
+[form]
+
+[bold]Razão do pedido:[/bold] [form]
+
+[color=#8a1c1c][bold]SEM ASSINATURA E CARIMBO, SEM VALIDADE[/bold][/color]
+
+         [color=#d4af37][bold]PELA JUSTIÇA, PELA ORDEM, PELA NANOTRASEN.[/bold][/color]
+
+                            [color=#1b487e][head=3][bold]GLÓRIA A NANOTRASEN![/bold][/head][/color]
+
+                                      [italic]Espaço para Carimbos[/italic]
 doc-text-printer-OrderPurchaseResourcesEquipment =
-    ⠀[color=#1b487e]███░███░░░░██░░░░[/color]
-    ⠀[color=#1b487e]░██░████░░░██░░░░[/color]      [head=3]Documento em Branco[/head]
-    ⠀[color=#1b487e]░░█░██░██░░██░█░░[/color]               [head=3]NanoTrasen[/head]
-    ⠀[color=#1b487e]░░░░██░░██░██░██░[/color] [bold]Estação XX-000 COD-SNB[/bold]
-    ⠀[color=#1b487e]░░░░██░░░████░███[/color]
-    =============================================
-            ORDEM DE COMPRA DE RECURSOS, EQUIPAMENTOS
-    =============================================
-    Tempo desde o início do turno:
-    Redator do documento:
-    Posição do redator:
+[color=#1b487e]════════════════════════════NANOTRASEN══
 
-    Lista de produtos para pedido:
+ █▄ █ ▀█▀    [head=3][color=#d4af37]DIVISÃO DE LOGÍSTICA[/color][/head]
+ █ ▀█  █     [italic]Estação [form][/italic]
+             Emitido: [form].[form].3026
+[/color]
+[color=#1b487e]════════════════════════════════════════[/color]
 
-    Local de entrega dos produtos:
+[head=2][color=#d4af37]ORDEM DE COMPRA DE RECURSOS, EQUIPAMENTOS[/color][/head]
 
-    Razão:
+[bold]Tempo desde o início do turno:[/bold] [form]
+[bold]Redator do documento:[/bold] [signature]
 
-    =============================================
-                                ⠀[italic]Espaço para carimbos[/italic]
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+                                           [head=3][color=#d4af37]LOGÍSTICA[/color][/head]
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+[bold]Lista de produtos para pedido:[/bold]
+[form]
 
+[bold]Local de entrega dos produtos:[/bold] [form]
+
+[bold]Razão:[/bold] [form]
+
+[color=#8a1c1c][bold]SEM ASSINATURA E CARIMBO, SEM VALIDADE[/bold][/color]
+
+         [color=#d4af37][bold]PELA JUSTIÇA, PELA ORDEM, PELA NANOTRASEN.[/bold][/color]
+
+                            [color=#1b487e][head=3][bold]GLÓRIA A NANOTRASEN![/bold][/head][/color]
+
+                                      [italic]Espaço para Carimbos[/italic]
 doc-text-printer-OrderingSpecialEquipment =
-    ⠀[color=#1b487e]███░███░░░░██░░░░[/color]
-    ⠀[color=#1b487e]░██░████░░░██░░░░[/color]      [head=3]Documento em Branco[/head]
-    ⠀[color=#1b487e]░░█░██░██░░██░█░░[/color]               [head=3]NanoTrasen[/head]
-    ⠀[color=#1b487e]░░░░██░░██░██░██░[/color] [bold]Estação XX-000 COM-CC[/bold]
-    ⠀[color=#1b487e]░░░░██░░░████░███[/color]
-    =============================================
-                    ORDEM DE SOLICITAÇÃO DE EQUIPAMENTO ESPECIAL
-    =============================================
-    Tempo desde o início do turno:
-    Redator do documento:
-    Posição do redator:
+[color=#1b487e]════════════════════════════NANOTRASEN══
 
-    Eu, (NOME), no cargo de (nome completo do cargo), solicito o fornecimento de equipamento especial para a estação pela  Central de Comando.
-    Lista do equipamento solicitado:
+ █▄ █ ▀█▀    [head=3][color=#d4af37]COMANDO DA ESTAÇÃO[/color][/head]
+ █ ▀█  █     [italic]Estação [form][/italic]
+             Emitido: [form].[form].3026
+[/color]
+[color=#1b487e]════════════════════════════════════════[/color]
 
-    Razão da solicitação:
+[head=2][color=#d4af37]ORDEM DE SOLICITAÇÃO DE EQUIPAMENTO ESPECIAL[/color][/head]
 
-    =============================================
-                                ⠀[italic]Espaço para carimbos[/italic]
+[bold]Tempo desde o início do turno:[/bold] [form]
+[bold]Redator do documento:[/bold] [signature]
+
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+                                         [head=3][color=#d4af37]REQUISIÇÃO[/color][/head]
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+Eu, [form], no cargo de [form], solicito o fornecimento de equipamento especial para a estação pela Central de Comando.
+
+[bold]Lista do equipamento solicitado:[/bold]
+[form]
+
+[bold]Razão da solicitação:[/bold] [form]
+
+[color=#8a1c1c][bold]SEM ASSINATURA E CARIMBO, SEM VALIDADE[/bold][/color]
+
+         [color=#d4af37][bold]PELA JUSTIÇA, PELA ORDEM, PELA NANOTRASEN.[/bold][/color]
+
+                            [color=#1b487e][head=3][bold]GLÓRIA A NANOTRASEN![/bold][/head][/color]
+
+                                      [italic]Espaço para Carimbos[/italic]
 doc-text-printer-OrderPurchaseWeapons =
-    ⠀[color=#1b487e]███░███░░░░██░░░░[/color]
-    ⠀[color=#1b487e]░██░████░░░██░░░░[/color]      [head=3]Documento em Branco[/head]
-    ⠀[color=#1b487e]░░█░██░██░░██░█░░[/color]               [head=3]NanoTrasen[/head]
-    ⠀[color=#1b487e]░░░░██░░██░██░██░[/color] [bold]Estação XX-000 SE-SNB[/bold]
-    ⠀[color=#1b487e]░░░░██░░░████░███[/color]
-    =============================================
-            ORDEM DE COMPRA DE ARMAMENTO
-    =============================================
-    Tempo desde o início do turno:
-    Redator do documento:
-    Posição do redator:
+[color=#1b487e]════════════════════════════NANOTRASEN══
 
-    Eu, (NOME), no cargo de (nome completo do cargo), faço um pedido de armas de combate e/ou equipamentos de combate através do Departamento de Logística.
-    Razão do pedido:
+ █▄ █ ▀█▀    [head=3][color=#d4af37]DIVISÃO DE LOGÍSTICA[/color][/head]
+ █ ▀█  █     [italic]Estação [form][/italic]
+             Emitido: [form].[form].3026
+[/color]
+[color=#1b487e]════════════════════════════════════════[/color]
 
-    =============================================
-                                ⠀[italic]Espaço para carimbos[/italic]
+[head=2][color=#d4af37]ORDEM DE COMPRA DE ARMAMENTO[/color][/head]
 
+[bold]Tempo desde o início do turno:[/bold] [form]
+[bold]Redator do documento:[/bold] [signature]
+
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+                                         [head=3][color=#d4af37]REQUISIÇÃO[/color][/head]
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+Eu, [form], no cargo de [form], faço um pedido de armas de combate e/ou equipamentos de combate através do Departamento de Logística.
+
+[bold]Razão do pedido:[/bold] [form]
+
+[color=#8a1c1c][bold]SEM ASSINATURA E CARIMBO, SEM VALIDADE[/bold][/color]
+
+         [color=#d4af37][bold]PELA JUSTIÇA, PELA ORDEM, PELA NANOTRASEN.[/bold][/color]
+
+                            [color=#1b487e][head=3][bold]GLÓRIA A NANOTRASEN![/bold][/head][/color]
+
+                                      [italic]Espaço para Carimbos[/italic]
 doc-text-printer-Certificate =
-    ⠀[color=#1b487e]███░███░░░░██░░░░[/color]
-    ⠀[color=#1b487e]░██░████░░░██░░░░[/color]      [head=3]Documento em Branco[/head]
-    ⠀[color=#1b487e]░░█░██░██░░██░█░░[/color]               [head=3]NanoTrasen[/head]
-    ⠀[color=#1b487e]░░░░██░░██░██░██░[/color] [bold]Estação XX-000 COM-PD[/bold]
-    ⠀[color=#1b487e]░░░░██░░░████░███[/color]
-    =============================================
-                                        CERTIFICADO
-    =============================================
-    Tempo desde o início do turno:
-    Redator do documento:
-    Posição do redator:
+[color=#1b487e]════════════════════════════NANOTRASEN══
 
-    (NOME), no cargo de (nome completo do cargo), é premiado com um certificado por suas notáveis contribuições em:
+ █▄ █ ▀█▀    [head=3][color=#d4af37]HONRARIAS E MÉRITOS[/color][/head]
+ █ ▀█  █     [italic]Estação [form][/italic]
+             Emitido: [form].[form].3026
+[/color]
+[color=#1b487e]════════════════════════════════════════[/color]
 
-    =============================================
-                                ⠀[italic]Espaço para carimbos[/italic]
+[head=2][color=#d4af37]CERTIFICADO[/color][/head]
 
+[bold]Tempo desde o início do turno:[/bold] [form]
+[bold]Redator do documento:[/bold] [signature]
+
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+         [head=3][color=#d4af37]                           HONRARIA[/color][/head]
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+[form], no cargo de [form], é premiado com um certificado por suas notáveis contribuições em:
+
+[form]
+
+[color=#8a1c1c][bold]SEM ASSINATURA E CARIMBO, SEM VALIDADE[/bold][/color]
+
+       [color=#d4af37][bold]   PELA JUSTIÇA, PELA ORDEM, PELA NANOTRASEN.[/bold][/color]
+
+                     [color=#1b487e][head=3][bold]     GLÓRIA A NANOTRASEN![/bold][/head][/color]
+
+                                    [italic] Espaço para Carimbos[/italic]
 doc-text-printer-CertificateAdvancedTraining =
-    ⠀[color=#1b487e]███░███░░░░██░░░░[/color]
-    ⠀[color=#1b487e]░██░████░░░██░░░░[/color]      [head=3]Documento em Branco[/head]
-    ⠀[color=#1b487e]░░█░██░██░░██░█░░[/color]               [head=3]NanoTrasen[/head]
-    ⠀[color=#1b487e]░░░░██░░██░██░██░[/color] [bold]Estação XX-000 COM[/bold]
-    ⠀[color=#1b487e]░░░░██░░░████░███[/color]
-    =============================================
-    CERTIFICADO DE TREINAMENTO AVANÇADO
-    =============================================
-    Tempo desde o início do turno:
-    Redator do documento:
-    Posição do redator:
+[color=#1b487e]════════════════════════════NANOTRASEN══
 
-    Eu, (NOME), no cargo de Chefe do Departamento (nome completo do departamento), certifico que o funcionário (NOME) no cargo de (cargo do funcionário), concluiu com êxito o curso educacional "(nome do curso)" e foi aprovado.
-    =============================================
-                                ⠀[italic]Espaço para carimbos[/italic]
+ █▄ █ ▀█▀    [head=3][color=#d4af37]COMANDO DA ESTAÇÃO[/color][/head]
+ █ ▀█  █     [italic]Estação [form][/italic]
+             Emitido: [form].[form].3026
+[/color]
+[color=#1b487e]════════════════════════════════════════[/color]
+
+[head=2][color=#d4af37]CERTIFICADO DE TREINAMENTO AVANÇADO[/color][/head]
+
+[bold]Tempo desde o início do turno:[/bold] [form]
+[bold]Redator do documento:[/bold] [signature]
+
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+                                           [head=3][color=#d4af37]CONCLUSÃO[/color][/head]
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+Eu, [form], no cargo de Chefe do Departamento [form], certifico que o funcionário [form] no cargo de [form], concluiu com êxito o curso educacional "[form]" e foi aprovado.
+
+[color=#8a1c1c][bold]SEM ASSINATURA E CARIMBO, SEM VALIDADE[/bold][/color]
+
+         [color=#d4af37][bold]PELA JUSTIÇA, PELA ORDEM, PELA NANOTRASEN.[/bold][/color]
+
+                            [color=#1b487e][head=3][bold]GLÓRIA A NANOTRASEN![/bold][/head][/color]
+
+                                      [italic]Espaço para Carimbos[/italic]
 doc-text-printer-CertificateOffense =
-    ⠀[color=#1b487e]███░███░░░░██░░░░[/color]
-    ⠀[color=#1b487e]░██░████░░░██░░░░[/color]      [head=3]Documento em Branco[/head]
-    ⠀[color=#1b487e]░░█░██░██░░██░█░░[/color]               [head=3]NanoTrasen[/head]
-    ⠀[color=#1b487e]░░░░██░░██░██░██░[/color] [bold]Estação XX-000 PD-SB[/bold]
-    ⠀[color=#1b487e]░░░░██░░░████░███[/color]
-    =============================================
-                CERTIFICADO DE INFRAÇÃO
-    =============================================
-    Tempo desde o início do turno:
-    Redator do documento:
-    Posição do redator:
+[color=#1b487e]════════════════════════════NANOTRASEN══
 
-    Eu, (NOME), no cargo de (nome completo do cargo), certifico infrações/voluntariamente admito ter cometido infrações previstas pelos artigos:
-    (enumeração de artigos)
-    Sobre este incidente, posso esclarecer o seguinte.
-    Local do crime:
-    Motivações para cometer o crime:
-    Contra quem o crime foi cometido:
-    Natureza e extensão do dano causado pelo crime:
-    Cúmplices no crime:
-    Cronologia completa dos eventos:
+ █▄ █ ▀█▀    [head=3][color=#d4af37]DIVISÃO DE SEGURANÇA[/color][/head]
+ █ ▀█  █     [italic]Estação [form][/italic]
+             Emitido: [form].[form].3026
+[/color]
+[color=#1b487e]════════════════════════════════════════[/color]
 
-    =============================================
-                                ⠀[italic]Espaço para carimbos[/italic]
+[head=2][color=#d4af37]CERTIFICADO DE INFRAÇÃO[/color][/head]
 
+[bold]Tempo desde o início do turno:[/bold] [form]
+[bold]Redator do documento:[/bold] [signature]
+
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+                                           [head=3][color=#d4af37]CONFISSÃO[/color][/head]
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+Eu, [form], no cargo de [form], certifico infrações/voluntariamente admito ter cometido infrações previstas pelos artigos:
+[form]
+
+Sobre este incidente, posso esclarecer o seguinte.
+[bold]Local do crime:[/bold] [form]
+[bold]Motivações para cometer o crime:[/bold] [form]
+[bold]Contra quem o crime foi cometido:[/bold] [form]
+[bold]Natureza e extensão do dano causado pelo crime:[/bold] [form]
+[bold]Cúmplices no crime:[/bold] [form]
+[bold]Cronologia completa dos eventos:[/bold] [form]
+
+[color=#8a1c1c][bold]SEM ASSINATURA E CARIMBO, SEM VALIDADE[/bold][/color]
+
+         [color=#d4af37][bold]PELA JUSTIÇA, PELA ORDEM, PELA NANOTRASEN.[/bold][/color]
+
+                            [color=#1b487e][head=3][bold]GLÓRIA A NANOTRASEN![/bold][/head][/color]
+
+                                      [italic]Espaço para Carimbos[/italic]
 doc-text-printer-DeathCertificate =
-    ⠀[color=#1b487e]███░███░░░░██░░░░[/color]
-    ⠀[color=#1b487e]░██░████░░░██░░░░[/color]      [head=3]Documento em Branco[/head]
-    ⠀[color=#1b487e]░░█░██░██░░██░█░░[/color]               [head=3]NanoTrasen[/head]
-    ⠀[color=#1b487e]░░░░██░░██░██░██░[/color] [bold]Estação XX-000 MED[/bold]
-    ⠀[color=#1b487e]░░░░██░░░████░███[/color]
-    =============================================
-                            CERTIFICADO DE ÓBITO
-    =============================================
-    Tempo desde o início do turno:
-    Redator do documento:
-    Posição do redator:
+[color=#1b487e]════════════════════════════NANOTRASEN══
 
-    Nome do falecido:
-    Posição do falecido:
-    Raça:
-    Gênero:
-    Causa da morte:
-    Possibilidade de reanimação ou clonagem:
+ █▄ █ ▀█▀    [head=3][color=#d4af37]DEPARTAMENTO MÉDICO[/color][/head]
+ █ ▀█  █     [italic]Estação [form][/italic]
+             Emitido: [form].[form].3026
+[/color]
+[color=#1b487e]════════════════════════════════════════[/color]
 
-    =============================================
-                                ⠀[italic]Espaço para carimbos[/italic]
+[head=2][color=#d4af37]CERTIFICADO DE ÓBITO[/color][/head]
 
+[bold]Tempo desde o início do turno:[/bold] [form]
+[bold]Redator do documento:[/bold] [signature]
+
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+                                        [head=3][color=#d4af37]FALECIMENTO[/color][/head]
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+[bold]Nome do falecido:[/bold] [form]
+[bold]Posição do falecido:[/bold] [form]
+[bold]Raça:[/bold] [form]
+[bold]Gênero:[/bold] [form]
+[bold]Causa da morte:[/bold] [form]
+
+[bold]Possibilidade de reanimação ou clonagem:[/bold]
+   [check] Reanimação
+   [check] Clonagem
+   [check] Nenhuma
+
+[color=#8a1c1c][bold]SEM ASSINATURA E CARIMBO, SEM VALIDADE[/bold][/color]
+
+         [color=#d4af37][bold]PELA JUSTIÇA, PELA ORDEM, PELA NANOTRASEN.[/bold][/color]
+
+                            [color=#1b487e][head=3][bold]GLÓRIA A NANOTRASEN![/bold][/head][/color]
+
+                                      [italic]Espaço para Carimbos[/italic]
 doc-text-printer-MarriageCertificate =
-    ⠀[color=#1b487e]███░███░░░░██░░░░[/color]
-    ⠀[color=#1b487e]░██░████░░░██░░░░[/color]      [head=3]Documento em Branco[/head]
-    ⠀[color=#1b487e]░░█░██░██░░██░█░░[/color]               [head=3]NanoTrasen[/head]
-    ⠀[color=#1b487e]░░░░██░░██░██░██░[/color] [bold]Estação XX-000 SRV-PD[/bold]
-    ⠀[color=#1b487e]░░░░██░░░████░███[/color]
-    =============================================
-                CERTIFICADO DE CASAMENTO
-    =============================================
-    Tempo desde o início do turno:
-    Redator do documento:
-    Posição do redator:
+[color=#1b487e]════════════════════════════NANOTRASEN══
 
-    Eu, (NOME), no cargo de (nome completo do cargo), celebro o casamento entre:
-    ⠀(NOME), no cargo de (nome completo do cargo)
-    ⠀...
-    ⠀(NOME), no cargo de (nome completo do cargo)
-    Após o casamento, os cônjuges receberam os seguintes nomes completos:
+ █▄ █ ▀█▀    [head=3][color=#d4af37]REGISTRO CIVIL[/color][/head]
+ █ ▀█  █     [italic]Estação [form][/italic]
+             Emitido: [form].[form].3026
+[/color]
+[color=#1b487e]════════════════════════════════════════[/color]
 
-    =============================================
-                                ⠀[italic]Espaço para carimbos[/italic]
+[head=2][color=#d4af37]CERTIFICADO DE CASAMENTO[/color][/head]
+
+[bold]Tempo desde o início do turno:[/bold] [form]
+[bold]Redator do documento:[/bold] [signature]
+
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+                                           [head=3][color=#d4af37]    UNIÃO[/color][/head]
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+Eu, [form], no cargo de [form], celebro o casamento entre:
+
+   [bold]Cônjuge:[/bold] [form], no cargo de [form]
+   [bold]Cônjuge:[/bold] [form], no cargo de [form]
+
+Após o casamento, os cônjuges receberam os seguintes nomes completos:
+[form]
+
+[color=#8a1c1c][bold]SEM ASSINATURA E CARIMBO, SEM VALIDADE[/bold][/color]
+
+         [color=#d4af37][bold]  PELA JUSTIÇA, PELA ORDEM, PELA NANOTRASEN.[/bold][/color]
+
+                     [color=#1b487e][head=3][bold]      GLÓRIA A NANOTRASEN![/bold][/head][/color]
+
+                                    [italic]  Espaço para Carimbos[/italic]
 doc-text-printer-DivorceCertificate =
-    ⠀[color=#1b487e]███░███░░░░██░░░░[/color]
-    ⠀[color=#1b487e]░██░████░░░██░░░░[/color]      [head=3]Documento em Branco[/head]
-    ⠀[color=#1b487e]░░█░██░██░░██░█░░[/color]               [head=3]NanoTrasen[/head]
-    ⠀[color=#1b487e]░░░░██░░██░██░██░[/color] [bold]Estação XX-000 SRV-PD[/bold]
-    ⠀[color=#1b487e]░░░░██░░░████░███[/color]
-    =============================================
-                CERTIFICADO DE DIVÓRCIO
-    =============================================
-    Tempo desde o início do turno:
-    Redator do documento:
-    Posição do redator:
+ [color=#1b487e]════════════════════════════NANOTRASEN══
 
-    Eu, (NOME), no cargo de (nome completo do cargo), divórcio o casamento entre:
-    (NOME), no cargo de (nome completo do cargo)
-    ⠀...
-    (NOME), no cargo de (nome completo do cargo)
-    Após o divórcio, os ex-cônjuges receberam os seguintes nomes completos:
+ █▄ █ ▀█▀    [head=3][color=#d4af37]REGISTRO CIVIL[/color][/head]
+ █ ▀█  █     [italic]Estação [form][/italic]
+             Emitido: [form].[form].3026
+[/color]
+[color=#1b487e]════════════════════════════════════════[/color]
 
-    A divisão de propriedades foi realizada da seguinte forma:
+[head=2][color=#d4af37]CERTIFICADO DE DIVÓRCIO[/color][/head]
 
-    =============================================
-                                ⠀[italic]Espaço para carimbos[/italic]
+[bold]Tempo desde o início do turno:[/bold] [form]
+[bold]Redator do documento:[/bold] [signature]
 
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+                                     [head=3][color=#d4af37]     SEPARAÇÃO[/color][/head]
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+Eu, [form], no cargo de [form], decreto o divórcio entre:
+
+   [bold]Ex-cônjuge:[/bold] [form], no cargo de [form]
+   [bold]Ex-cônjuge:[/bold] [form], no cargo de [form]
+
+Após o divórcio, os ex-cônjuges receberam os seguintes nomes completos:
+[form]
+
+A divisão de propriedades foi realizada da seguinte forma:
+[form]
+
+[color=#8a1c1c][bold]SEM ASSINATURA E CARIMBO, SEM VALIDADE[/bold][/color]
+
+         [color=#d4af37][bold]  PELA JUSTIÇA, PELA ORDEM, PELA NANOTRASEN.[/bold][/color]
+
+                     [color=#1b487e][head=3][bold]      GLÓRIA A NANOTRASEN![/bold][/head][/color]
+
+                                    [italic]  Espaço para Carimbos[/italic]
 doc-text-printer-ClosingIndictment =
-    ⠀[color=#1b487e]███░███░░░░██░░░░[/color]
-    ⠀[color=#1b487e]░██░████░░░██░░░░[/color]      [head=3]Documento em Branco[/head]
-    ⠀[color=#1b487e]░░█░██░██░░██░█░░[/color]               [head=3]NanoTrasen[/head]
-    ⠀[color=#1b487e]░░░░██░░██░██░██░[/color] [bold]Estação XX-000 SB[/bold]
-    ⠀[color=#1b487e]░░░░██░░░████░███[/color]
-    =============================================
-                        ORDEM DE PRISÃO
-    =============================================
-    Tempo desde o início do turno:
-    Redator do documento:
-    Posição do redator:
+[color=#1b487e]════════════════════════════NANOTRASEN══
 
-    Eu, (NOME), no cargo de (nome completo do cargo), redatorizo a prisão de (NOME), no cargo de (nome completo do cargo) devido à suspeita de cometer as seguintes infrações:
+ █▄ █ ▀█▀    [head=3][color=#d4af37]DIVISÃO DE SEGURANÇA[/color][/head]
+ █ ▀█  █     [italic]Estação [form][/italic]
+             Emitido: [form].[form].3026
+[/color]
+[color=#1b487e]════════════════════════════════════════[/color]
 
-    Durante a investigação preliminar, foram encontradas evidências que indicam que o indivíduo cometeu a infração.
-    Evidências diretas:
+[head=2][color=#d4af37]ORDEM DE PRISÃO[/color][/head]
 
-    Evidências indiretas:
+[bold]Tempo desde o início do turno:[/bold] [form]
+[bold]Redator do documento:[/bold] [signature]
 
-    =============================================
-                                ⠀[italic]Espaço para carimbos[/italic]
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+                                              [head=3][color=#d4af37]MANDADO[/color][/head]
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+Eu, [form], no cargo de [form], redatorizo a prisão de [form], no cargo de [form] devido à suspeita de cometer as seguintes infrações:
+[form]
 
+Durante a investigação preliminar, foram encontradas evidências que indicam que o indivíduo cometeu a infração.
+
+[bold]Evidências diretas:[/bold] [form]
+
+[bold]Evidências indiretas:[/bold] [form]
+
+[color=#8a1c1c][bold]SEM ASSINATURA E CARIMBO, SEM VALIDADE[/bold][/color]
+
+         [color=#d4af37][bold]PELA JUSTIÇA, PELA ORDEM, PELA NANOTRASEN.[/bold][/color]
+
+                            [color=#1b487e][head=3][bold]GLÓRIA A NANOTRASEN![/bold][/head][/color]
+
+                                      [italic]Espaço para Carimbos[/italic]
 doc-text-printer-Sentence =
-        ⠀[color=#1b487e]███░███░░░░██░░░░[/color]
-        ⠀[color=#1b487e]░██░████░░░██░░░░[/color]      [head=3]Documento em Branco[/head]
-        ⠀[color=#1b487e]░░█░██░██░░██░█░░[/color]               [head=3]NanoTrasen[/head]
-        ⠀[color=#1b487e]░░░░██░░██░██░██░[/color] [bold]Estação XX-000 SB[/bold]
-        ⠀[color=#1b487e]░░░░██░░░████░███[/color]
-        =============================================
-                                        SENTENÇA
-        =============================================
-        Tempo desde o início do turno:
-        Redator do documento:
-        Posição do redator:
+[color=#1b487e]════════════════════════════NANOTRASEN══
 
-        Eu, (NOME), no cargo de (nome completo do cargo), profiro a sentença de acordo com as redatoridades concedidas a mim em relação a (NOME), no cargo de (nome completo do cargo).
-        Esta pessoa violou os seguintes artigos da Lei Corporativa:
-        (enumeração de artigos)
-        Levando em consideração todas as circunstâncias atenuantes e agravantes, a punição legal para esta pessoa é apresentada na forma de:
-        (tempo total, prisão perpétua ou sentença de morte)
-        Punição administrativa:
-        (degradação de posição, demissão)
-        O tempo de prisão começa a ser contado a partir de: (hora do início da prisão)
-        =============================================
-                                    ⠀[italic]Espaço para carimbos[/italic]
+ █▄ █ ▀█▀    [head=3][color=#d4af37]TRIBUNAL NANOTRASEN[/color][/head]
+ █ ▀█  █     [italic]Estação [form][/italic]
+             Emitido: [form].[form].3026
+[/color]
+[color=#1b487e]════════════════════════════════════════[/color]
+
+[head=2][color=#d4af37]SENTENÇA[/color][/head]
+
+[bold]Tempo desde o início do turno:[/bold] [form]
+[bold]Redator do documento:[/bold] [signature]
+
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+                                         [head=3][color=#d4af37]JULGAMENTO[/color][/head]
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+Eu, [form], no cargo de [form], profiro a sentença de acordo com as redatoridades concedidas a mim em relação a [form], no cargo de [form].
+
+Esta pessoa violou os seguintes artigos da Lei Corporativa:
+[form]
+
+Levando em consideração todas as circunstâncias atenuantes e agravantes, a punição legal para esta pessoa é apresentada na forma de:
+   [check] Tempo total de prisão: [form]
+   [check] Prisão perpétua
+   [check] Sentença de morte
+
+[bold]Punição administrativa:[/bold]
+   [check] Degradação de posição
+   [check] Demissão
+
+[bold]O tempo de prisão começa a ser contado a partir de:[/bold] [form] (hora do início da prisão)
+
+[color=#8a1c1c][bold]SEM ASSINATURA E CARIMBO, SEM VALIDADE[/bold][/color]
+
+         [color=#d4af37][bold]PELA JUSTIÇA, PELA ORDEM, PELA NANOTRASEN.[/bold][/color]
+
+                            [color=#1b487e][head=3][bold]GLÓRIA A NANOTRASEN![/bold][/head][/color]
+
+                                      [italic]Espaço para Carimbos[/italic]
 doc-text-printer-Judgment =
-    ⠀[color=#1b487e]███░███░░░░██░░░░[/color]
-    ⠀[color=#1b487e]░██░████░░░██░░░░[/color]      [head=3]Documento em Branco[/head]
-    ⠀[color=#1b487e]░░█░██░██░░██░█░░[/color]               [head=3]NanoTrasen[/head]
-    ⠀[color=#1b487e]░░░░██░░██░██░██░[/color] [bold]Estação XX-000 JUR[/bold]
-    ⠀[color=#1b487e]░░░░██░░░████░███[/color]
-    =============================================
-                    SENTENÇA JUDICIAL
-    =============================================
-    Tempo desde o início do turno:
-    Redator do documento:
-    Posição do redator:
+⠀[color=#1b487e]════════════════════════════NANOTRASEN══
 
-    Eu, (NOME), no cargo de (nome completo do cargo), proponho uma decisão sobre o processo judicial em relação a (NOME), no cargo de (nome completo do cargo).
-    Infrações cometidas:
+ █▄ █ ▀█▀    [head=3][color=#d4af37]TRIBUNAL NANOTRASEN[/color][/head]
+ █ ▀█  █     [italic]Estação [form][/italic]
+             Emitido: [form].[form].3026
+[/color]
+[color=#1b487e]════════════════════════════════════════[/color]
 
-    Decisão da Segurança:
+[head=2][color=#d4af37]SENTENÇA JUDICIAL[/color][/head]
 
-    Tempo de detenção antes do julgamento:
+[bold]Tempo desde o início do turno:[/bold] [form]
+[bold]Redator do documento:[/bold] [signature]
 
-    Esta pessoa violou os seguintes artigos da Lei Corporativa:
-    (enumeração de artigos)
-    Levando em consideração todas as circunstâncias atenuantes e agravantes, a punição legal para esta pessoa é apresentada na forma de:
-    (tempo total, prisão perpétua ou sentença de morte)
-    Punição administrativa:
-    (degradação de posição, demissão)
-    O tempo de detenção começa a ser contado a partir de:
-    (hora do início da detenção)
-    Minha decisão é fundamentada em (por que):
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+                                              [head=3][color=#d4af37]DECISÃO[/color][/head]
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+Eu, [form], no cargo de [form], proponho uma decisão sobre o processo judicial em relação a [form], no cargo de [form].
 
-    =============================================
-                                ⠀[italic]Espaço para carimbos[/italic]
+[bold]Infrações cometidas:[/bold] [form]
 
+[bold]Decisão da Segurança:[/bold] [form]
+
+[bold]Tempo de detenção antes do julgamento:[/bold] [form]
+
+Esta pessoa violou os seguintes artigos da Lei Corporativa:
+[form]
+
+Levando em consideração todas as circunstâncias atenuantes e agravantes, a punição legal para esta pessoa é apresentada na forma de:
+   [check] Tempo total de prisão: [form]
+   [check] Prisão perpétua
+   [check] Sentença de morte
+
+[bold]Punição administrativa:[/bold]
+   [check] Degradação de posição
+   [check] Demissão
+
+[bold]O tempo de detenção começa a ser contado a partir de:[/bold] [form] (hora do início da detenção)
+
+[bold]Minha decisão é fundamentada em (por quê):[/bold]
+[form]
+
+[color=#8a1c1c][bold]SEM ASSINATURA E CARIMBO, SEM VALIDADE[/bold][/color]
+
+         [color=#d4af37][bold]PELA JUSTIÇA, PELA ORDEM, PELA NANOTRASEN.[/bold][/color]
+
+                            [color=#1b487e][head=3][bold]GLÓRIA A NANOTRASEN![/bold][/head][/color]
+
+                                      [italic]Espaço para Carimbos[/italic]
 doc-text-printer-StatementHealth =
-    ⠀[color=#1b487e]███░███░░░░██░░░░[/color]
-    ⠀[color=#1b487e]░██░████░░░██░░░░[/color]      [head=3]Documento em Branco[/head]
-    ⠀[color=#1b487e]░░█░██░██░░██░█░░[/color]               [head=3]NanoTrasen[/head]
-    ⠀[color=#1b487e]░░░░██░░██░██░██░[/color] [bold]Estação XX-000 MED-PD[/bold]
-    ⠀[color=#1b487e]░░░░██░░░████░███[/color]
-    =============================================
-                    DECLARAÇÃO DE SAÚDE
-    =============================================
-    Tempo desde o início do turno:
-    Redator do documento:
-    Posição do redator:
+[color=#1b487e]════════════════════════════NANOTRASEN══
 
-    O paciente (NOME), no cargo de (nome completo do cargo), foi encaminhado para exame médico devido a (razão para o exame). Foi realizado um exame completo do paciente, incluindo os exames e análises necessários.
-    Composição da comissão médica:
-    (Nome do médico, nome completo do cargo ou especialização)
-    Estado do paciente na admissão:
+ █▄ █ ▀█▀    [head=3][color=#d4af37]DEPARTAMENTO MÉDICO[/color][/head]
+ █ ▀█  █     [italic]Estação [form][/italic]
+             Emitido: [form].[form].3026
+[/color]
+[color=#1b487e]════════════════════════════════════════[/color]
 
-    Diagnóstico estabelecido:
+[head=2][color=#d4af37]DECLARAÇÃO DE SAÚDE[/color][/head]
 
-    Estado psicológico do paciente:
+[bold]Tempo desde o início do turno:[/bold] [form]
+[bold]Redator do documento:[/bold] [signature]
 
-    Tratamento administrado durante a hospitalização:
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+                                      [head=3][color=#d4af37]EXAME MÉDICO[/color][/head]
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+O paciente [form], no cargo de [form], foi encaminhado para exame médico devido a [form]. Foi realizado um exame completo do paciente, incluindo os exames e análises necessários.
 
-    =============================================
-                                ⠀[italic]Espaço para carimbos[/italic]
+[bold]Composição da comissão médica:[/bold]
+[form]
 
+[bold]Estado do paciente na admissão:[/bold] [form]
+
+[bold]Diagnóstico estabelecido:[/bold] [form]
+
+[bold]Estado psicológico do paciente:[/bold] [form]
+
+[bold]Tratamento administrado durante a hospitalização:[/bold] [form]
+
+[color=#8a1c1c][bold]SEM ASSINATURA E CARIMBO, SEM VALIDADE[/bold][/color]
+
+         [color=#d4af37][bold]PELA JUSTIÇA, PELA ORDEM, PELA NANOTRASEN.[/bold][/color]
+
+                            [color=#1b487e][head=3][bold]GLÓRIA A NANOTRASEN![/bold][/head][/color]
+
+                                      [italic]Espaço para Carimbos[/italic]
 doc-text-printer-DecisionToStartTrial =
-    ⠀[color=#1b487e]███░███░░░░██░░░░[/color]
-    ⠀[color=#1b487e]░██░████░░░██░░░░[/color]      [head=3]Documento em Branco[/head]
-    ⠀[color=#1b487e]░░█░██░██░░██░█░░[/color]               [head=3]NanoTrasen[/head]
-    ⠀[color=#1b487e]░░░░██░░██░██░██░[/color] [bold]Estação XX-000 JUR[/bold]
-    ⠀[color=#1b487e]░░░░██░░░████░███[/color]
-    =============================================
-            DECISÃO DE INICIAR O JULGAMENTO
-    =============================================
-    Tempo desde o início do turno:
-    Redator do documento:
-    Posição do redator:
+[color=#1b487e]════════════════════════════NANOTRASEN══
 
-    Eu, (NOME), no cargo de (nome completo do cargo), anuncio o início do processo judicial em relação a (NOME) devido à complexidade e ambiguidade do caso.
-    Infrações cometidas:
+ █▄ █ ▀█▀    [head=3][color=#d4af37]TRIBUNAL NANOTRASEN[/color][/head]
+ █ ▀█  █     [italic]Estação [form][/italic]
+             Emitido: [form].[form].3026
+[/color]
+[color=#1b487e]════════════════════════════════════════[/color]
 
-    =============================================
-                                ⠀[italic]Espaço para carimbos[/italic]
+[head=2][color=#d4af37]DECISÃO DE INICIAR O JULGAMENTO[/color][/head]
+
+[bold]Tempo desde o início do turno:[/bold] [form]
+[bold]Redator do documento:[/bold] [signature]
+
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+                          [head=3][color=#d4af37]ABERTURA DO PROCESSO[/color][/head]
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+Eu, [form], no cargo de [form], anuncio o início do processo judicial em relação a [form] devido à complexidade e ambiguidade do caso.
+
+[bold]Infrações cometidas:[/bold] [form]
+
+[color=#8a1c1c][bold]SEM ASSINATURA E CARIMBO, SEM VALIDADE[/bold][/color]
+
+         [color=#d4af37][bold]PELA JUSTIÇA, PELA ORDEM, PELA NANOTRASEN.[/bold][/color]
+
+                            [color=#1b487e][head=3][bold]GLÓRIA A NANOTRASEN![/bold][/head][/color]
+
+                                      [italic]Espaço para Carimbos[/italic]
 doc-text-printer-ErrorLoadingFormHeader =
     ⠀[color=#B50F1D] ███░██████░███[/color]
     ⠀[color=#B50F1D] █░░░██░░░░░░░█[/color]    [head=3]Documento em Branco[/head]
@@ -1214,7 +1767,6 @@ doc-text-printer-ErrorLoadingFormHeader =
     Conteúdo completo do documento com todas as informações necessárias e descrição
     =============================================
                                 ⠀[italic]Espaço para carimbos[/italic]
-
 doc-text-printer-NOTICEOFLIQUIDATION =
     ⠀[color=#B50F1D] ███░██████░███[/color]
     ⠀[color=#B50F1D] █░░░██░░░░░░░█[/color]    [head=3]Documento em Branco[/head]
@@ -1232,7 +1784,6 @@ doc-text-printer-NOTICEOFLIQUIDATION =
 
     =============================================
                                 ⠀[italic]Espaço para carimbos[/italic]
-
 doc-text-printer-BUSINESSDEAL =
     ⠀[color=#B50F1D] ███░██████░███[/color]
     ⠀[color=#B50F1D] █░░░██░░░░░░░█[/color]    [head=3]Documento em Branco[/head]
@@ -1268,7 +1819,6 @@ doc-text-printer-NOTEBEGINNINGMILITARYACTIONS =
 
     =============================================
                                 ⠀[italic]Espaço para carimbos[/italic]
-
 doc-text-printer-REPORTACCOMPLISHMENTGOALS =
     ⠀[color=#B50F1D] ███░██████░███[/color]
     ⠀[color=#B50F1D] █░░░██░░░░░░░█[/color]    [head=3]Documento em Branco[/head]
@@ -1286,39 +1836,54 @@ doc-text-printer-REPORTACCOMPLISHMENTGOALS =
 
     =============================================
                                 ⠀[italic]Espaço para carimbos[/italic]
-
-# Gaby add
+# gaby add
 doc-text-printer-RelatorioSetorial =
-    {"["}color=#1b67a5]░░██░░ [head=2]Documento Oficial[/head]
-    ▀████▀ [head=3]Assunto: Relatório Setorial – Status Operacional da Estação[/head]
-    ▄█▀▀█▄ [head=3]De: Comando da Estação[/head]
-    {"["}/color]──────────────────────────────────────────
-    
-    Relatório geral de status da estação, com informações coletadas e organizadas por setor:
-    
-    {"["}color=#f2e052][bold]Engenharia:[/bold][/color]
-    \[INSIRA AQUI UM RESUMO DA SITUAÇÃO\]
-    
-    {"["}color=#d28150][bold]Setor de Cargas:[/bold][/color]
-    \[INSIRA AQUI UM RESUMO DA SITUAÇÃO\]
-    
-    {"["}color=#ff5c5c][bold]Segurança:[/bold][/color]
-    INSIRA AQUI UM RESUMO DA SITUAÇÃO\]
-    
-    {"["}color=#5b97bc][bold]Departamento Médico:[/bold][/color]
-    \[INSIRA AQUI UM RESUMO DA SITUAÇÃO\]
-    
-    {"["}color=#9fed58][bold]Setor Civil e Serviços:[/bold][/color]
-    \[INSIRA AQUI UM RESUMO DA SITUAÇÃO\]
-    
-    {"["}color=#c96dbf][bold]Pesquisa Científica (SCI):[/bold][/color]
-    \[INSIRA AQUI UM RESUMO DA SITUAÇÃO\]
-    
-    As seguintes porcentagens de progresso foram atingidas:
-    - Engenharia: 0%
-    - Civil: 0%
-    - Experimental: 0%
-    - Segurança: 0%
-    
-    =============================================
-                                    ⠀[italic]Espaço para carimbos[/italic]
+[color=#1b487e]════════════════════════════NANOTRASEN══
+
+ █▄ █ ▀█▀    [head=3][color=#d4af37]CENTRO DE INFORMAÇÃO E COMANDO[/color][/head]
+ █ ▀█  █     [italic]Estação [form][/italic]
+             Emitido: [form].[form].3026
+[/color]
+[color=#1b487e]════════════════════════════════════════[/color]
+
+[head=2][color=#d4af37]RELATÓRIO DE STATUS DA ESTAÇÃO[/color][/head]
+
+[bold]Tempo desde o início do turno:[/bold] [form]
+[bold]Redator do documento:[/bold] [signature]
+
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+                                      [head=3][color=#d4af37]STATUS GERAL[/color][/head]
+[color=#d4af37]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[/color]
+Relatório geral de status da estação, com informações coletadas e organizadas por setor:
+
+[color=#d4c44a][bold]Engenharia:[/bold][/color]
+[form]
+
+[color=#b87348][bold]Setor de Cargas:[/bold][/color]
+[form]
+
+[color=#e05555][bold]Segurança:[/bold][/color]
+[form]
+
+[color=#5a8aa8][bold]Departamento Médico:[/bold][/color]
+[form]
+
+[color=#8fce52][bold]Setor Civil e Serviços:[/bold][/color]
+[form]
+
+[color=#b05fa0][bold]Pesquisa Científica (SCI):[/bold][/color]
+[form]
+
+[bold]As seguintes porcentagens de progresso foram atingidas:[/bold]
+- Engenharia: [form]%
+- Civil: [form]%
+- Experimental: [form]%
+- Segurança: [form]%
+
+[color=#8a1c1c][bold]SEM ASSINATURA E CARIMBO, SEM VALIDADE[/bold][/color]
+
+         [color=#d4af37][bold]PELA JUSTIÇA, PELA ORDEM, PELA NANOTRASEN.[/bold][/color]
+
+                            [color=#1b487e][head=3][bold]GLÓRIA A NANOTRASEN![/bold][/head][/color]
+
+                                      [italic]Espaço para Carimbos[/italic]
